@@ -1,0 +1,22 @@
+[
+  {
+    "busines_source": "Direct",
+    "GWP_birr": 624803313.7808
+  },
+  {
+    "busines_source": "Bank",
+    "GWP_birr": 25016682.14
+  },
+  {
+    "busines_source": "Brokers",
+    "GWP_birr": 187711320.4184
+  },
+  {
+    "busines_source": "Licensed Agent",
+    "GWP_birr": 248272937.7074
+  },
+  {
+    "busines_source": "Other Insurance Institutions",
+    "GWP_birr": 10339134.84
+  }
+]

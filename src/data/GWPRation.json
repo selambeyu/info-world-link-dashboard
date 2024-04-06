@@ -1,0 +1,2596 @@
+[
+  {
+    "month_year": "Jul-23",
+    "branch_name": "22M",
+    "GWP": 4066051.3476,
+    "Target": 5920187.21,
+    "GWP_percent": 68.68
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ADD",
+    "GWP": 23551479.65,
+    "Target": 13872281.02,
+    "GWP_percent": 169.77
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ADM",
+    "GWP": 14224704.83,
+    "Target": 11109641.64,
+    "GWP_percent": 128.04
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "AGA",
+    "GWP": 793275.77,
+    "Target": 785401.29,
+    "GWP_percent": 101
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ALG",
+    "GWP": 980294.92,
+    "Target": 1183246.78,
+    "GWP_percent": 82.85
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "AMB",
+    "GWP": 827762.46,
+    "Target": 1509069.58,
+    "GWP_percent": 54.85
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ARM",
+    "GWP": 239549.21,
+    "Target": 430958.75,
+    "GWP_percent": 55.59
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ASE",
+    "GWP": 767072.09,
+    "Target": 369900.97,
+    "GWP_percent": 207.37
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BHD",
+    "GWP": 1509451.55,
+    "Target": 1988747.42,
+    "GWP_percent": 75.9
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BLH",
+    "GWP": 971150.64,
+    "Target": 851618.65,
+    "GWP_percent": 114.04
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BLR",
+    "GWP": 792338.49,
+    "Target": 764859.86,
+    "GWP_percent": 103.59
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BOL",
+    "GWP": 37350246.8901,
+    "Target": 39914124.69,
+    "GWP_percent": 93.58
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BSA",
+    "GWP": 3529657.19,
+    "Target": 1118108.76,
+    "GWP_percent": 315.68
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BSH",
+    "GWP": 2050578.07,
+    "Target": 2093754.2,
+    "GWP_percent": 97.94
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BTL",
+    "GWP": 513777.98,
+    "Target": 687026.86,
+    "GWP_percent": 74.78
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CHR",
+    "GWP": 376948.04,
+    "Target": 761031.5,
+    "GWP_percent": 49.53
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CMC",
+    "GWP": 777469.7,
+    "Target": 1021309.25,
+    "GWP_percent": 76.12
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CMR",
+    "GWP": 1549076.39,
+    "Target": 1697671.71,
+    "GWP_percent": 91.25
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DAK",
+    "GWP": 2935911.16,
+    "Target": 1623929.3,
+    "GWP_percent": 180.79
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DBR",
+    "GWP": 785183.32,
+    "Target": 641902.92,
+    "GWP_percent": 122.32
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DGM",
+    "GWP": 1338165.07,
+    "Target": 1233983.93,
+    "GWP_percent": 108.44
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DLA",
+    "GWP": 668942.39,
+    "Target": 1047073.25,
+    "GWP_percent": 63.89
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DLG",
+    "GWP": 3224387.0259,
+    "Target": 3546023.81,
+    "GWP_percent": 90.93
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DRD",
+    "GWP": 1201837.07,
+    "Target": 1923371.71,
+    "GWP_percent": 62.49
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DSE",
+    "GWP": 1042385.85,
+    "Target": 1094475.3,
+    "GWP_percent": 95.24
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "FFN",
+    "GWP": 23892158.24,
+    "Target": 30520650.82,
+    "GWP_percent": 78.28
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "FRI",
+    "GWP": 184149.46,
+    "Target": 231593.77,
+    "GWP_percent": 79.51
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GBG",
+    "GWP": 849015.59,
+    "Target": 1051502.46,
+    "GWP_percent": 80.74
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GFM",
+    "GWP": 4247954.3175,
+    "Target": 10329597.32,
+    "GWP_percent": 41.12
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GLL",
+    "GWP": 1061608.67,
+    "Target": 947615.28,
+    "GWP_percent": 112.03
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GMB",
+    "GWP": 1149480.72,
+    "Target": 1754040.28,
+    "GWP_percent": 65.53
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GNB",
+    "GWP": 1767575.16,
+    "Target": 2565889.14,
+    "GWP_percent": 68.89
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GRJ",
+    "GWP": 5623164.55,
+    "Target": 5505137.54,
+    "GWP_percent": 102.14
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GTR",
+    "GWP": 5323886.94,
+    "Target": 5097816.81,
+    "GWP_percent": 104.43
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "HWS",
+    "GWP": 3523836.27,
+    "Target": 2857060.64,
+    "GWP_percent": 123.34
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "JIG",
+    "GWP": 397837.84,
+    "Target": 394571.41,
+    "GWP_percent": 100.83
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "JIM",
+    "GWP": 954373.6908,
+    "Target": 1013079.49,
+    "GWP_percent": 94.21
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KLY",
+    "GWP": 1914543.11,
+    "Target": 1870683.77,
+    "GWP_percent": 102.34
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KOL",
+    "GWP": 7323660.24,
+    "Target": 5230238.93,
+    "GWP_percent": 140.03
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KZC",
+    "GWP": 5209562.34,
+    "Target": 7174907.57,
+    "GWP_percent": 72.61
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LBU",
+    "GWP": 2259856.02,
+    "Target": 2068663.78,
+    "GWP_percent": 109.24
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LDT",
+    "GWP": 35199593,
+    "Target": 20392947.61,
+    "GWP_percent": 172.61
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LGT",
+    "GWP": 812990.79,
+    "Target": 752679.81,
+    "GWP_percent": 108.01
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MGN",
+    "GWP": 4989137.1918,
+    "Target": 4396108.03,
+    "GWP_percent": 113.49
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MKL",
+    "GWP": 1428171.46,
+    "Target": 1558507.11,
+    "GWP_percent": 91.64
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MRT",
+    "GWP": 2158757.83,
+    "Target": 2916673.24,
+    "GWP_percent": 74.01
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MTU",
+    "GWP": 243496.82,
+    "Target": 326760.98,
+    "GWP_percent": 74.52
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "NFS",
+    "GWP": 4123425.89,
+    "Target": 3878382.12,
+    "GWP_percent": 106.32
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "NKT",
+    "GWP": 861425.08,
+    "Target": 1534216.69,
+    "GWP_percent": 56.15
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ODA",
+    "GWP": 6051779.84,
+    "Target": 3306180.08,
+    "GWP_percent": 183.04
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "PIZ",
+    "GWP": 2695764.2368,
+    "Target": 12575148.6,
+    "GWP_percent": 21.44
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SAB",
+    "GWP": 4225280.99,
+    "Target": 3518696.32,
+    "GWP_percent": 120.08
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SEA",
+    "GWP": 13528193.74,
+    "Target": 8061520.31,
+    "GWP_percent": 167.81
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SGR",
+    "GWP": 2859903.92,
+    "Target": 2564131.04,
+    "GWP_percent": 111.54
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SHA",
+    "GWP": 2225146.82,
+    "Target": 2421956.82,
+    "GWP_percent": 91.87
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "TKB",
+    "GWP": 2725792.15,
+    "Target": 660000.01,
+    "GWP_percent": 413
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "TKH",
+    "GWP": 4214000.032,
+    "Target": 5113647.01,
+    "GWP_percent": 82.41
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WLF",
+    "GWP": 5838691.14,
+    "Target": 4237175,
+    "GWP_percent": 137.8
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WLS",
+    "GWP": 347760.73,
+    "Target": 321604.03,
+    "GWP_percent": 108.13
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WSO",
+    "GWP": 613998.68,
+    "Target": 1107492.3,
+    "GWP_percent": 55.44
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "22M",
+    "GWP": 2892732.6491,
+    "Target": 3425988.21,
+    "GWP_percent": 84.43
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ADD",
+    "GWP": 11155091.4,
+    "Target": 11067906.58,
+    "GWP_percent": 100.79
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ADM",
+    "GWP": 10551496.05,
+    "Target": 9153617.09,
+    "GWP_percent": 115.27
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "AGA",
+    "GWP": 761318.2,
+    "Target": 589960.96,
+    "GWP_percent": 129.05
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ALG",
+    "GWP": 952619.14,
+    "Target": 1195385.23,
+    "GWP_percent": 79.69
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "AMB",
+    "GWP": 1816756.45,
+    "Target": 1301037.71,
+    "GWP_percent": 139.64
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ARM",
+    "GWP": 221918.38,
+    "Target": 701810.68,
+    "GWP_percent": 31.62
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ASE",
+    "GWP": 853116.36,
+    "Target": 1054037.83,
+    "GWP_percent": 80.94
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BHD",
+    "GWP": 2505737.02,
+    "Target": 3185869.29,
+    "GWP_percent": 78.65
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BLH",
+    "GWP": 932805.98,
+    "Target": 2694859.95,
+    "GWP_percent": 34.61
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BLR",
+    "GWP": 682371.48,
+    "Target": 776253.98,
+    "GWP_percent": 87.91
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BOL",
+    "GWP": 15446038.31,
+    "Target": 14947272.1,
+    "GWP_percent": 103.34
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BSA",
+    "GWP": 1101911.23,
+    "Target": 852947.41,
+    "GWP_percent": 129.19
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BSH",
+    "GWP": 1605738.62,
+    "Target": 2426583.56,
+    "GWP_percent": 66.17
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BTL",
+    "GWP": 295469.87,
+    "Target": 698461.55,
+    "GWP_percent": 42.3
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CHR",
+    "GWP": 328831.005,
+    "Target": 761801.01,
+    "GWP_percent": 43.16
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CMC",
+    "GWP": 1111372.95,
+    "Target": 1110085.42,
+    "GWP_percent": 100.12
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CMR",
+    "GWP": 3592924.48,
+    "Target": 2340734.44,
+    "GWP_percent": 153.5
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DAK",
+    "GWP": 1971853.3,
+    "Target": 593150.73,
+    "GWP_percent": 332.44
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DBR",
+    "GWP": 408652.25,
+    "Target": 254286.56,
+    "GWP_percent": 160.71
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DGM",
+    "GWP": 1169555.76,
+    "Target": 1496408.44,
+    "GWP_percent": 78.16
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DLA",
+    "GWP": 619821.49,
+    "Target": 1118624.9,
+    "GWP_percent": 55.41
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DLG",
+    "GWP": 4040251.7633,
+    "Target": 2752898.12,
+    "GWP_percent": 146.76
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DRD",
+    "GWP": 2190881.17,
+    "Target": 2591689.6,
+    "GWP_percent": 84.53
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DSE",
+    "GWP": 565054.72,
+    "Target": 1623365.33,
+    "GWP_percent": 34.81
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "FFN",
+    "GWP": 14417801.89,
+    "Target": 12763017.12,
+    "GWP_percent": 112.97
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "FRI",
+    "GWP": 303757.47,
+    "Target": 270353.86,
+    "GWP_percent": 112.36
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GBG",
+    "GWP": 476972.27,
+    "Target": 789987.28,
+    "GWP_percent": 60.38
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GFM",
+    "GWP": 7703491.8608,
+    "Target": 7202278.11,
+    "GWP_percent": 106.96
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GLL",
+    "GWP": 1411225.77,
+    "Target": 1523650.91,
+    "GWP_percent": 92.62
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GMB",
+    "GWP": 1118795.8,
+    "Target": 1629008.99,
+    "GWP_percent": 68.68
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GNB",
+    "GWP": 747666.31,
+    "Target": 429333.75,
+    "GWP_percent": 174.15
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GRJ",
+    "GWP": 6593243.44,
+    "Target": 4131401.14,
+    "GWP_percent": 159.59
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GTR",
+    "GWP": 2818026.16,
+    "Target": 2698243.87,
+    "GWP_percent": 104.44
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "HWS",
+    "GWP": 2432887.3633,
+    "Target": 1355966.03,
+    "GWP_percent": 179.42
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "JIG",
+    "GWP": 25493.06,
+    "Target": 557438.34,
+    "GWP_percent": 4.57
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "JIM",
+    "GWP": 1669350.35,
+    "Target": 1977982.78,
+    "GWP_percent": 84.4
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KLY",
+    "GWP": 2232872.57,
+    "Target": 1728245.66,
+    "GWP_percent": 129.2
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KOL",
+    "GWP": 8828990.3,
+    "Target": 5586878.63,
+    "GWP_percent": 158.03
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KZC",
+    "GWP": 7322159.29,
+    "Target": 7313096.56,
+    "GWP_percent": 100.12
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LBU",
+    "GWP": 1638283.01,
+    "Target": 1978421.89,
+    "GWP_percent": 82.81
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LDT",
+    "GWP": 9606207.16,
+    "Target": 8070574.15,
+    "GWP_percent": 119.03
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LGT",
+    "GWP": 750642.69,
+    "Target": 878650.01,
+    "GWP_percent": 85.43
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MGN",
+    "GWP": 6223583.3902,
+    "Target": 5074597.29,
+    "GWP_percent": 122.64
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MKL",
+    "GWP": 2993208.91,
+    "Target": 3717164.24,
+    "GWP_percent": 80.52
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MRT",
+    "GWP": 1709779.66,
+    "Target": 1533060.61,
+    "GWP_percent": 111.53
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MTU",
+    "GWP": 87852.24,
+    "Target": 289397.17,
+    "GWP_percent": 30.36
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "NFS",
+    "GWP": 5066263.74,
+    "Target": 5356477.15,
+    "GWP_percent": 94.58
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "NKT",
+    "GWP": 1449300.16,
+    "Target": 1513079.66,
+    "GWP_percent": 95.78
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ODA",
+    "GWP": 4802281.41,
+    "Target": 2536832.93,
+    "GWP_percent": 189.3
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "PIZ",
+    "GWP": 4018904.6286,
+    "Target": 2223804.48,
+    "GWP_percent": 180.72
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SAB",
+    "GWP": 2680323.15,
+    "Target": 2102314.18,
+    "GWP_percent": 127.49
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SEA",
+    "GWP": 1169321.74,
+    "Target": 981281.35,
+    "GWP_percent": 119.16
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SGR",
+    "GWP": 3980979.65,
+    "Target": 3542285.94,
+    "GWP_percent": 112.38
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SHA",
+    "GWP": 2434048.71,
+    "Target": 2008697.73,
+    "GWP_percent": 121.18
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "TKB",
+    "GWP": 1167237.74,
+    "Target": 715000,
+    "GWP_percent": 163.25
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "TKH",
+    "GWP": 2845560.1891,
+    "Target": 4080220.71,
+    "GWP_percent": 69.74
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WLF",
+    "GWP": 5594315.04,
+    "Target": 5460666.85,
+    "GWP_percent": 102.45
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WLS",
+    "GWP": 170947.28,
+    "Target": 366987.23,
+    "GWP_percent": 46.58
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WSO",
+    "GWP": 699357.77,
+    "Target": 646302.4,
+    "GWP_percent": 108.21
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "22M",
+    "GWP": 6753983.5306,
+    "Target": 3221170.93,
+    "GWP_percent": 209.67
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ADD",
+    "GWP": 15315457.49,
+    "Target": 12143651.02,
+    "GWP_percent": 126.12
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ADM",
+    "GWP": 15189100.59,
+    "Target": 14801089.17,
+    "GWP_percent": 102.62
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "AGA",
+    "GWP": 560616.92,
+    "Target": 655075.57,
+    "GWP_percent": 85.58
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ALG",
+    "GWP": 963255,
+    "Target": 1234335.77,
+    "GWP_percent": 78.04
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "AMB",
+    "GWP": 1094033.8,
+    "Target": 1330237.05,
+    "GWP_percent": 82.24
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ARM",
+    "GWP": 322057.18,
+    "Target": 1030062.72,
+    "GWP_percent": 31.27
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ASE",
+    "GWP": 374829.4,
+    "Target": 534939.75,
+    "GWP_percent": 70.07
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BHD",
+    "GWP": 1577834.33,
+    "Target": 3026091.62,
+    "GWP_percent": 52.14
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BLH",
+    "GWP": 921315.4,
+    "Target": 2309773.72,
+    "GWP_percent": 39.89
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BLR",
+    "GWP": 654551.76,
+    "Target": 901442.35,
+    "GWP_percent": 72.61
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BOL",
+    "GWP": 10402200.23,
+    "Target": 15931403.79,
+    "GWP_percent": 65.29
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BSA",
+    "GWP": 2184896.05,
+    "Target": 2523711.11,
+    "GWP_percent": 86.57
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BSH",
+    "GWP": 1222060.43,
+    "Target": 1545350.93,
+    "GWP_percent": 79.08
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BTL",
+    "GWP": 282359.97,
+    "Target": 723187.5,
+    "GWP_percent": 39.04
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CHR",
+    "GWP": 181868.48,
+    "Target": 648509.93,
+    "GWP_percent": 28.04
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CMC",
+    "GWP": 814007.76,
+    "Target": 801161.63,
+    "GWP_percent": 101.6
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CMR",
+    "GWP": 1165579.24,
+    "Target": 1870851.64,
+    "GWP_percent": 62.3
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DAK",
+    "GWP": 683038.06,
+    "Target": 887860.38,
+    "GWP_percent": 76.93
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DBR",
+    "GWP": 376502.3,
+    "Target": 329804.54,
+    "GWP_percent": 114.16
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DGM",
+    "GWP": 1684977.96,
+    "Target": 1672580.6,
+    "GWP_percent": 100.74
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DLA",
+    "GWP": 1071097.32,
+    "Target": 2281444.36,
+    "GWP_percent": 46.95
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DLG",
+    "GWP": 2064701.4162,
+    "Target": 5347416.54,
+    "GWP_percent": 38.61
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DRD",
+    "GWP": 3096908.74,
+    "Target": 2503560.26,
+    "GWP_percent": 123.7
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DSE",
+    "GWP": 687806.76,
+    "Target": 974946.31,
+    "GWP_percent": 70.55
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "FFN",
+    "GWP": 10715607.28,
+    "Target": 12409763.73,
+    "GWP_percent": 86.35
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "FRI",
+    "GWP": 502687.59,
+    "Target": 261138.06,
+    "GWP_percent": 192.5
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GBG",
+    "GWP": 504800.46,
+    "Target": 949375.54,
+    "GWP_percent": 53.17
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GFM",
+    "GWP": 7396877.5243,
+    "Target": 6298483.39,
+    "GWP_percent": 117.44
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GLL",
+    "GWP": 1465342.16,
+    "Target": 1904271.09,
+    "GWP_percent": 76.95
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GMB",
+    "GWP": 1199020.23,
+    "Target": 1920914.15,
+    "GWP_percent": 62.42
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GNB",
+    "GWP": 1340615.63,
+    "Target": 702762.45,
+    "GWP_percent": 190.76
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GRJ",
+    "GWP": 1821984.7,
+    "Target": 4024061.98,
+    "GWP_percent": 45.28
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GTR",
+    "GWP": 5354684.94,
+    "Target": 4654190.64,
+    "GWP_percent": 115.05
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "HWS",
+    "GWP": 1129042.57,
+    "Target": 1851846.89,
+    "GWP_percent": 60.97
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "JIG",
+    "GWP": 90238.76,
+    "Target": 312183.01,
+    "GWP_percent": 28.91
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "JIM",
+    "GWP": 1306374.11,
+    "Target": 1523513.25,
+    "GWP_percent": 85.75
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KLY",
+    "GWP": 1311250.95,
+    "Target": 1464231.98,
+    "GWP_percent": 89.55
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KOL",
+    "GWP": 5308324.97,
+    "Target": 5773464.03,
+    "GWP_percent": 91.94
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KZC",
+    "GWP": 3791925.82,
+    "Target": 8074991.92,
+    "GWP_percent": 46.96
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LBU",
+    "GWP": 1747450.95,
+    "Target": 1550913.73,
+    "GWP_percent": 112.67
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LDT",
+    "GWP": 4160134.88,
+    "Target": 4398094.43,
+    "GWP_percent": 94.59
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LGT",
+    "GWP": 503228.4,
+    "Target": 848698.75,
+    "GWP_percent": 59.29
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MGN",
+    "GWP": 3118308.9417,
+    "Target": 2506447.71,
+    "GWP_percent": 124.41
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MJO",
+    "GWP": 307185.13,
+    "Target": 491055.97,
+    "GWP_percent": 62.56
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MKL",
+    "GWP": 5735965.01,
+    "Target": 3065167.59,
+    "GWP_percent": 187.13
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MRT",
+    "GWP": 2628191.15,
+    "Target": 2150987.47,
+    "GWP_percent": 122.19
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MTU",
+    "GWP": 82206.88,
+    "Target": 678891.84,
+    "GWP_percent": 12.11
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "NFS",
+    "GWP": 2857679.2079,
+    "Target": 2786758.8,
+    "GWP_percent": 102.54
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "NKT",
+    "GWP": 1045797.83,
+    "Target": 2055085.99,
+    "GWP_percent": 50.89
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ODA",
+    "GWP": 3692736.32,
+    "Target": 877150.36,
+    "GWP_percent": 420.99
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "PIZ",
+    "GWP": 4149288.0673,
+    "Target": 2064183.74,
+    "GWP_percent": 201.01
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SAB",
+    "GWP": 2031098.59,
+    "Target": 2414526.29,
+    "GWP_percent": 84.12
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SEA",
+    "GWP": 735078.14,
+    "Target": 1282209.81,
+    "GWP_percent": 57.33
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SGR",
+    "GWP": 3121502.71,
+    "Target": 1934113.28,
+    "GWP_percent": 161.39
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SHA",
+    "GWP": 2764669.77,
+    "Target": 1894610.98,
+    "GWP_percent": 145.92
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "TKB",
+    "GWP": 779404.32,
+    "Target": 605000.01,
+    "GWP_percent": 128.83
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "TKH",
+    "GWP": 2455122.1251,
+    "Target": 4443382.18,
+    "GWP_percent": 55.25
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WLF",
+    "GWP": 3085197.69,
+    "Target": 4544248.81,
+    "GWP_percent": 67.89
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WLS",
+    "GWP": 178900.97,
+    "Target": 290542.04,
+    "GWP_percent": 61.57
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WSO",
+    "GWP": 403024.66,
+    "Target": 748179.21,
+    "GWP_percent": 53.87
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "22M",
+    "GWP": 3067562.0374,
+    "Target": 3805873.51,
+    "GWP_percent": 80.6
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ADD",
+    "GWP": 6738101.42,
+    "Target": 8749181.06,
+    "GWP_percent": 77.01
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ADM",
+    "GWP": 5840703.57,
+    "Target": 9473888.76,
+    "GWP_percent": 61.65
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "AGA",
+    "GWP": 566315.97,
+    "Target": 893903.67,
+    "GWP_percent": 63.35
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ALG",
+    "GWP": 1140221.33,
+    "Target": 1655765.77,
+    "GWP_percent": 68.86
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "AMB",
+    "GWP": 1601305.71,
+    "Target": 2090238.91,
+    "GWP_percent": 76.61
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ARM",
+    "GWP": 431799.68,
+    "Target": 603654.23,
+    "GWP_percent": 71.53
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ASE",
+    "GWP": 541724.76,
+    "Target": 750948.62,
+    "GWP_percent": 72.14
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BHD",
+    "GWP": 2044477.59,
+    "Target": 3437640.08,
+    "GWP_percent": 59.47
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BLH",
+    "GWP": 1095287.48,
+    "Target": 2730566.63,
+    "GWP_percent": 40.11
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BLR",
+    "GWP": 1205937.29,
+    "Target": 1518099.18,
+    "GWP_percent": 79.44
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BOL",
+    "GWP": 14608495.62,
+    "Target": 19803997.54,
+    "GWP_percent": 73.77
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BSA",
+    "GWP": 2002184.62,
+    "Target": 2237980.92,
+    "GWP_percent": 89.46
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BSH",
+    "GWP": 1879757.4,
+    "Target": 1817121.58,
+    "GWP_percent": 103.45
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BTL",
+    "GWP": 641362.08,
+    "Target": 647482.05,
+    "GWP_percent": 99.05
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CHR",
+    "GWP": 244477.99,
+    "Target": 462790.96,
+    "GWP_percent": 52.83
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CMC",
+    "GWP": 1365344.59,
+    "Target": 1349723.22,
+    "GWP_percent": 101.16
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CMR",
+    "GWP": 1548376.82,
+    "Target": 1757792.34,
+    "GWP_percent": 88.09
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DAK",
+    "GWP": 662985.2,
+    "Target": 625596,
+    "GWP_percent": 105.98
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DBR",
+    "GWP": 257800.7,
+    "Target": 844777.5,
+    "GWP_percent": 30.52
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DGM",
+    "GWP": 1194354.45,
+    "Target": 1303800.76,
+    "GWP_percent": 91.61
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DLA",
+    "GWP": 760478.73,
+    "Target": 1831776.33,
+    "GWP_percent": 41.52
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DLG",
+    "GWP": 2319458.9215,
+    "Target": 3352372.12,
+    "GWP_percent": 69.19
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DRD",
+    "GWP": 2459209.77,
+    "Target": 2161296.2,
+    "GWP_percent": 113.78
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DSE",
+    "GWP": 509601.08,
+    "Target": 1021594.19,
+    "GWP_percent": 49.88
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "FFN",
+    "GWP": 19016205.91,
+    "Target": 15032584.16,
+    "GWP_percent": 126.5
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "FRI",
+    "GWP": 99118.34,
+    "Target": 233631.74,
+    "GWP_percent": 42.43
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GBG",
+    "GWP": 996491.09,
+    "Target": 986653.39,
+    "GWP_percent": 101
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GFM",
+    "GWP": 6349336.06,
+    "Target": 4693685.55,
+    "GWP_percent": 135.27
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GLL",
+    "GWP": 1483559.1,
+    "Target": 1230652.23,
+    "GWP_percent": 120.55
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GMB",
+    "GWP": 1848265.49,
+    "Target": 1339642.4,
+    "GWP_percent": 137.97
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GNB",
+    "GWP": 1545082.77,
+    "Target": 1265889.83,
+    "GWP_percent": 122.06
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GRJ",
+    "GWP": 4745101.77,
+    "Target": 6195558.16,
+    "GWP_percent": 76.59
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GTR",
+    "GWP": 3810050.64,
+    "Target": 4866404.68,
+    "GWP_percent": 78.29
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "HWS",
+    "GWP": 2529626.08,
+    "Target": 2021440.62,
+    "GWP_percent": 125.14
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "JIG",
+    "GWP": 212591.05,
+    "Target": 498554.18,
+    "GWP_percent": 42.64
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "JIM",
+    "GWP": 1611153.68,
+    "Target": 2491278.18,
+    "GWP_percent": 64.67
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KLY",
+    "GWP": 2335873.16,
+    "Target": 1884821.78,
+    "GWP_percent": 123.93
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KOL",
+    "GWP": 5250643.3,
+    "Target": 3795755.45,
+    "GWP_percent": 138.33
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KZC",
+    "GWP": 7383551.5089,
+    "Target": 5892722.73,
+    "GWP_percent": 125.3
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LBU",
+    "GWP": 1642488.49,
+    "Target": 2294566.65,
+    "GWP_percent": 71.58
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LDT",
+    "GWP": 6632950.45,
+    "Target": 4240415.07,
+    "GWP_percent": 156.42
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LGT",
+    "GWP": 650792.54,
+    "Target": 759303.19,
+    "GWP_percent": 85.71
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MGN",
+    "GWP": 3686288.1864,
+    "Target": 4863001.32,
+    "GWP_percent": 75.8
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MJO",
+    "GWP": 81242.93,
+    "Target": 819576.7,
+    "GWP_percent": 9.91
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MKL",
+    "GWP": 1199948.59,
+    "Target": 1776148.21,
+    "GWP_percent": 67.56
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MRT",
+    "GWP": 2448909.3,
+    "Target": 2794454.18,
+    "GWP_percent": 87.63
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MTU",
+    "GWP": 777219.51,
+    "Target": 406511.67,
+    "GWP_percent": 191.19
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "NFS",
+    "GWP": 4271612.16,
+    "Target": 5756254.63,
+    "GWP_percent": 74.21
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "NKT",
+    "GWP": 1378323.4,
+    "Target": 1630051.53,
+    "GWP_percent": 84.56
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ODA",
+    "GWP": 4773737.98,
+    "Target": 2114805.11,
+    "GWP_percent": 225.73
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "PIZ",
+    "GWP": 2854552.1402,
+    "Target": 2715092.04,
+    "GWP_percent": 105.14
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SAB",
+    "GWP": 3041413.99,
+    "Target": 2684888.21,
+    "GWP_percent": 113.28
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SEA",
+    "GWP": 1591368.39,
+    "Target": 986795.28,
+    "GWP_percent": 161.27
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SGR",
+    "GWP": 3097801.15,
+    "Target": 3167043,
+    "GWP_percent": 97.81
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SHA",
+    "GWP": 1316649.7,
+    "Target": 2339110.4,
+    "GWP_percent": 56.29
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "TKB",
+    "GWP": 620213.79,
+    "Target": 715000,
+    "GWP_percent": 86.74
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "TKH",
+    "GWP": 3816708.2287,
+    "Target": 3569325.94,
+    "GWP_percent": 106.93
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WLF",
+    "GWP": 4035865.232,
+    "Target": 4542458.85,
+    "GWP_percent": 88.85
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WLS",
+    "GWP": 264897.35,
+    "Target": 360188.27,
+    "GWP_percent": 73.54
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WSO",
+    "GWP": 536274.26,
+    "Target": 640083.41,
+    "GWP_percent": 83.78
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "22M",
+    "GWP": 5564521.5201,
+    "Target": 4228549.96,
+    "GWP_percent": 131.59
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ADD",
+    "GWP": 5307507.53,
+    "Target": 11071994.35,
+    "GWP_percent": 47.94
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ADM",
+    "GWP": 8593706.68,
+    "Target": 10915354.4,
+    "GWP_percent": 78.73
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "AGA",
+    "GWP": 1191293.41,
+    "Target": 997593.29,
+    "GWP_percent": 119.42
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ALG",
+    "GWP": 1716237.52,
+    "Target": 1505882.83,
+    "GWP_percent": 113.97
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "AMB",
+    "GWP": 1105839.27,
+    "Target": 1772940.86,
+    "GWP_percent": 62.37
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ARM",
+    "GWP": 300468.51,
+    "Target": 527164.5,
+    "GWP_percent": 57
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ASE",
+    "GWP": 493952.12,
+    "Target": 1127328.04,
+    "GWP_percent": 43.82
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BHD",
+    "GWP": 893680.93,
+    "Target": 2464449.02,
+    "GWP_percent": 36.26
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BLH",
+    "GWP": 1143891.64,
+    "Target": 1348739.61,
+    "GWP_percent": 84.81
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BLR",
+    "GWP": 560081,
+    "Target": 1164625.65,
+    "GWP_percent": 48.09
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BOL",
+    "GWP": 17454824.29,
+    "Target": 17245780.7,
+    "GWP_percent": 101.21
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BSA",
+    "GWP": 1319792.3,
+    "Target": 1758522.58,
+    "GWP_percent": 75.05
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BSH",
+    "GWP": 2338562.39,
+    "Target": 2249265.86,
+    "GWP_percent": 103.97
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BTL",
+    "GWP": 540159.69,
+    "Target": 1106228.31,
+    "GWP_percent": 48.83
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CHR",
+    "GWP": 381066.88,
+    "Target": 870710.38,
+    "GWP_percent": 43.77
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CMC",
+    "GWP": 1065321.9508,
+    "Target": 1509458.47,
+    "GWP_percent": 70.58
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CMR",
+    "GWP": 1223888.18,
+    "Target": 2690192.37,
+    "GWP_percent": 45.49
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DAK",
+    "GWP": 1652799.39,
+    "Target": 1293170.19,
+    "GWP_percent": 127.81
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DBR",
+    "GWP": 358866.77,
+    "Target": 245860.11,
+    "GWP_percent": 145.96
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DGM",
+    "GWP": 1468964.78,
+    "Target": 1937298.87,
+    "GWP_percent": 75.83
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DLA",
+    "GWP": 1704829.85,
+    "Target": 2395851.23,
+    "GWP_percent": 71.16
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DLG",
+    "GWP": 7034289.5799,
+    "Target": 5906384.64,
+    "GWP_percent": 119.1
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DRD",
+    "GWP": 2819466.87,
+    "Target": 2763489.28,
+    "GWP_percent": 102.03
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DSE",
+    "GWP": 383199.95,
+    "Target": 1141887.4,
+    "GWP_percent": 33.56
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "FFN",
+    "GWP": 8691412.47,
+    "Target": 15704317.1,
+    "GWP_percent": 55.34
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "FRI",
+    "GWP": 246946.29,
+    "Target": 259631.96,
+    "GWP_percent": 95.11
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GBG",
+    "GWP": 1097535.6,
+    "Target": 869668.71,
+    "GWP_percent": 126.2
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GFM",
+    "GWP": 3678222.7759,
+    "Target": 6106818.89,
+    "GWP_percent": 60.23
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GLL",
+    "GWP": 1967014.62,
+    "Target": 1832935.31,
+    "GWP_percent": 107.32
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GMB",
+    "GWP": 896440.57,
+    "Target": 1206573.73,
+    "GWP_percent": 74.3
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GNB",
+    "GWP": 1356065.68,
+    "Target": 903832.59,
+    "GWP_percent": 150.04
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GRJ",
+    "GWP": 2462462.71,
+    "Target": 3821814.74,
+    "GWP_percent": 64.43
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GTR",
+    "GWP": 6376934.51,
+    "Target": 7548837.51,
+    "GWP_percent": 84.48
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "HWS",
+    "GWP": 1901331.82,
+    "Target": 2335724.64,
+    "GWP_percent": 81.4
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "JIG",
+    "GWP": 399689.69,
+    "Target": 558404.73,
+    "GWP_percent": 71.58
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "JIM",
+    "GWP": 1048011.03,
+    "Target": 1541280.54,
+    "GWP_percent": 68
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KLY",
+    "GWP": 1198694.11,
+    "Target": 2530407.48,
+    "GWP_percent": 47.37
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KOL",
+    "GWP": 4210449.26,
+    "Target": 5829150.35,
+    "GWP_percent": 72.23
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KZC",
+    "GWP": 5559985.4559,
+    "Target": 7539088.93,
+    "GWP_percent": 73.75
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LBU",
+    "GWP": 2071124.97,
+    "Target": 2486118.01,
+    "GWP_percent": 83.31
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LDT",
+    "GWP": 8487195.05,
+    "Target": 8436676,
+    "GWP_percent": 100.6
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LGT",
+    "GWP": 682787.21,
+    "Target": 843803.85,
+    "GWP_percent": 80.92
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MGN",
+    "GWP": 3777940.1696,
+    "Target": 3067056.54,
+    "GWP_percent": 123.18
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MJO",
+    "GWP": 425799.48,
+    "Target": 741014.23,
+    "GWP_percent": 57.46
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MKL",
+    "GWP": 367143.99,
+    "Target": 603092.36,
+    "GWP_percent": 60.88
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MRT",
+    "GWP": 1636972.81,
+    "Target": 6250161.26,
+    "GWP_percent": 26.19
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MTU",
+    "GWP": 280235.59,
+    "Target": 496531.49,
+    "GWP_percent": 56.44
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "NFS",
+    "GWP": 3399023.04,
+    "Target": 7416314.46,
+    "GWP_percent": 45.83
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "NKT",
+    "GWP": 1472646.35,
+    "Target": 1556646.22,
+    "GWP_percent": 94.6
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ODA",
+    "GWP": 2149622.98,
+    "Target": 1534173.79,
+    "GWP_percent": 140.12
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "PIZ",
+    "GWP": 1543365.7701,
+    "Target": 2849147.94,
+    "GWP_percent": 54.17
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SAB",
+    "GWP": 1684328.55,
+    "Target": 2368508.94,
+    "GWP_percent": 71.11
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SEA",
+    "GWP": 1822758.17,
+    "Target": 1584748.1,
+    "GWP_percent": 115.02
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SGR",
+    "GWP": 3071555.78,
+    "Target": 3056549.38,
+    "GWP_percent": 100.49
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SHA",
+    "GWP": 2893439.7,
+    "Target": 2290197.21,
+    "GWP_percent": 126.34
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "TKB",
+    "GWP": 704473.49,
+    "Target": 770000.01,
+    "GWP_percent": 91.49
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "TKH",
+    "GWP": 2906090.8373,
+    "Target": 3299829.25,
+    "GWP_percent": 88.07
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WLF",
+    "GWP": 2981019.45,
+    "Target": 5596383.34,
+    "GWP_percent": 53.27
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WLS",
+    "GWP": 94170.51,
+    "Target": 331151.51,
+    "GWP_percent": 28.44
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WSO",
+    "GWP": 672094.3,
+    "Target": 914401.86,
+    "GWP_percent": 73.5
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "22M",
+    "GWP": 1497401.0918,
+    "Target": 3680149.83,
+    "GWP_percent": 40.69
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ADD",
+    "GWP": 10319469.03,
+    "Target": 11351541.02,
+    "GWP_percent": 90.91
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ADM",
+    "GWP": 10560903.86,
+    "Target": 6459378.4,
+    "GWP_percent": 163.5
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "AGA",
+    "GWP": 1037831.02,
+    "Target": 1438219.26,
+    "GWP_percent": 72.16
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ALG",
+    "GWP": 1149505.09,
+    "Target": 2018760.27,
+    "GWP_percent": 56.94
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "AMB",
+    "GWP": 1270248.78,
+    "Target": 1074897.2,
+    "GWP_percent": 118.17
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ARM",
+    "GWP": 141010.88,
+    "Target": 321741.53,
+    "GWP_percent": 43.83
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ASE",
+    "GWP": 129012.87,
+    "Target": 397844.37,
+    "GWP_percent": 32.43
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BHD",
+    "GWP": 873177.26,
+    "Target": 2227203.44,
+    "GWP_percent": 39.21
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BLH",
+    "GWP": 470629.52,
+    "Target": 1478963.3,
+    "GWP_percent": 31.82
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BLR",
+    "GWP": 796506.62,
+    "Target": 1545850,
+    "GWP_percent": 51.53
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BOL",
+    "GWP": 26549647.0239,
+    "Target": 169919128.81,
+    "GWP_percent": 15.62
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BSA",
+    "GWP": 1258463.31,
+    "Target": 3336327.93,
+    "GWP_percent": 37.72
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BSH",
+    "GWP": 1466530.17,
+    "Target": 2229370.76,
+    "GWP_percent": 65.78
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BTL",
+    "GWP": 630897.97,
+    "Target": 1155196.72,
+    "GWP_percent": 54.61
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CHR",
+    "GWP": 329228.01,
+    "Target": 410521.92,
+    "GWP_percent": 80.2
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CMC",
+    "GWP": 621303.27,
+    "Target": 1594569.97,
+    "GWP_percent": 38.96
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CMR",
+    "GWP": 1831595.94,
+    "Target": 2468220.04,
+    "GWP_percent": 74.21
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DAK",
+    "GWP": 1250871.63,
+    "Target": 1201473.64,
+    "GWP_percent": 104.11
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DBR",
+    "GWP": 385717.43,
+    "Target": 312524.99,
+    "GWP_percent": 123.42
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DGM",
+    "GWP": 1174206.91,
+    "Target": 2095739.67,
+    "GWP_percent": 56.03
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DLA",
+    "GWP": 741260.96,
+    "Target": 1693147.65,
+    "GWP_percent": 43.78
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DLG",
+    "GWP": 1783944.0348,
+    "Target": 4837729.57,
+    "GWP_percent": 36.88
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DRD",
+    "GWP": 2912902.43,
+    "Target": 1980646.61,
+    "GWP_percent": 147.07
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DSE",
+    "GWP": 206692.75,
+    "Target": 1435891.99,
+    "GWP_percent": 14.39
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "FFN",
+    "GWP": 38170216.74,
+    "Target": 182472275.23,
+    "GWP_percent": 20.92
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "FRI",
+    "GWP": 138064.53,
+    "Target": 366443.47,
+    "GWP_percent": 37.68
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GBG",
+    "GWP": 779412.44,
+    "Target": 1063220.19,
+    "GWP_percent": 73.31
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GFM",
+    "GWP": 4208834.7916,
+    "Target": 10628093.23,
+    "GWP_percent": 39.6
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GLL",
+    "GWP": 1301824.72,
+    "Target": 2129478.16,
+    "GWP_percent": 61.13
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GMB",
+    "GWP": 1638312.97,
+    "Target": 1790073.22,
+    "GWP_percent": 91.52
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GNB",
+    "GWP": 1074054.22,
+    "Target": 1688411.19,
+    "GWP_percent": 63.61
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GRJ",
+    "GWP": 2932573.55,
+    "Target": 5117977.59,
+    "GWP_percent": 57.3
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GTR",
+    "GWP": 2366991.5,
+    "Target": 6221620.33,
+    "GWP_percent": 38.04
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "HWS",
+    "GWP": 1367736.57,
+    "Target": 3649994.85,
+    "GWP_percent": 37.47
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "JIG",
+    "GWP": 453295.33,
+    "Target": 669586,
+    "GWP_percent": 67.7
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "JIM",
+    "GWP": 866977.82,
+    "Target": 1430351.26,
+    "GWP_percent": 60.61
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KLY",
+    "GWP": 1364631.89,
+    "Target": 4648350.9,
+    "GWP_percent": 29.36
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KOL",
+    "GWP": 5220537.15,
+    "Target": 6961827.15,
+    "GWP_percent": 74.99
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KZC",
+    "GWP": 5220749.16,
+    "Target": 6460747.95,
+    "GWP_percent": 80.81
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LBU",
+    "GWP": 1672394.53,
+    "Target": 2960763.53,
+    "GWP_percent": 56.49
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LDT",
+    "GWP": 4414009.86,
+    "Target": 22194722.22,
+    "GWP_percent": 19.89
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LGT",
+    "GWP": 568787.42,
+    "Target": 1190941.28,
+    "GWP_percent": 47.76
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MGN",
+    "GWP": 2498638.9404,
+    "Target": 4142911.99,
+    "GWP_percent": 60.31
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MJO",
+    "GWP": 44454.52,
+    "Target": 730614.81,
+    "GWP_percent": 6.08
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MKL",
+    "GWP": 1144673.06,
+    "Target": 4494866.48,
+    "GWP_percent": 25.47
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MRT",
+    "GWP": 1143579.44,
+    "Target": 3307705.94,
+    "GWP_percent": 34.57
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MTU",
+    "GWP": 164233.6,
+    "Target": 631127.85,
+    "GWP_percent": 26.02
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "NFS",
+    "GWP": 5570731.9924,
+    "Target": 10150112.81,
+    "GWP_percent": 54.88
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "NKT",
+    "GWP": 554875.57,
+    "Target": 1426159.35,
+    "GWP_percent": 38.91
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ODA",
+    "GWP": 1477213.28,
+    "Target": 1908747.22,
+    "GWP_percent": 77.39
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "PIZ",
+    "GWP": 1796023.7564,
+    "Target": 4667495.15,
+    "GWP_percent": 38.48
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SAB",
+    "GWP": 1954386.9,
+    "Target": 3159362.25,
+    "GWP_percent": 61.86
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SEA",
+    "GWP": 686463.05,
+    "Target": 1198089.53,
+    "GWP_percent": 57.3
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SGR",
+    "GWP": 1374828.52,
+    "Target": 3352161.42,
+    "GWP_percent": 41.01
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SHA",
+    "GWP": 1480626.57,
+    "Target": 2547626.81,
+    "GWP_percent": 58.12
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "TKB",
+    "GWP": 647327.16,
+    "Target": 880000,
+    "GWP_percent": 73.56
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "TKH",
+    "GWP": 2720857.7096,
+    "Target": 5201314.78,
+    "GWP_percent": 52.31
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WLF",
+    "GWP": 5510187.086,
+    "Target": 11146707.47,
+    "GWP_percent": 49.43
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WLS",
+    "GWP": 202659,
+    "Target": 329288.78,
+    "GWP_percent": 61.54
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WSO",
+    "GWP": 202723.01,
+    "Target": 552752.6,
+    "GWP_percent": 36.68
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "month_year": "month_year",
+    "branch_name": "GWP",
+    "GWP": "Target",
+    "Target": "GWP_percent"
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": 266893670.6025,
+    "GWP": 255446576.48,
+    "Target": 104.48
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": 184965452.1994,
+    "GWP": 171747735.68,
+    "Target": 107.7
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": 158465989.5531,
+    "GWP": 172985100.29,
+    "Target": 91.61
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": 162663232.5251,
+    "GWP": 177077782.07,
+    "Target": 91.86
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": 150832197.7896,
+    "GWP": 195812990.04,
+    "Target": 77.03
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": 172322846.2169,
+    "GWP": 548623313.43,
+    "Target": 31.41
+  }
+]

@@ -1,0 +1,2598 @@
+[
+  {
+    "month_year": "Jul-23",
+    "branch_name": "22M",
+    "claim_incurred": 1715990.18,
+    "GWP": 4066051.3476,
+    "net_loss_ratio": 42.2
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ADD",
+    "claim_incurred": 4480351.39,
+    "GWP": 23551479.65,
+    "net_loss_ratio": 19.02
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ADM",
+    "claim_incurred": 4673438.88,
+    "GWP": 14224704.83,
+    "net_loss_ratio": 32.85
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "AGA",
+    "claim_incurred": 176238.56,
+    "GWP": 793275.77,
+    "net_loss_ratio": 22.22
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ALG",
+    "claim_incurred": 747056.8,
+    "GWP": 980294.92,
+    "net_loss_ratio": 76.21
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "AMB",
+    "claim_incurred": 340919,
+    "GWP": 827762.46,
+    "net_loss_ratio": 41.19
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ARM",
+    "claim_incurred": 35000,
+    "GWP": 239549.21,
+    "net_loss_ratio": 14.61
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ASE",
+    "claim_incurred": 380000,
+    "GWP": 767072.09,
+    "net_loss_ratio": 49.54
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BHD",
+    "claim_incurred": 2453778.73,
+    "GWP": 1509451.55,
+    "net_loss_ratio": 162.56
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BLH",
+    "claim_incurred": 0,
+    "GWP": 971150.64,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BLR",
+    "claim_incurred": 671673.38,
+    "GWP": 792338.49,
+    "net_loss_ratio": 84.77
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BOL",
+    "claim_incurred": 11179446.437,
+    "GWP": 37350246.8901,
+    "net_loss_ratio": 29.93
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BSA",
+    "claim_incurred": 858482.48,
+    "GWP": 3529657.19,
+    "net_loss_ratio": 24.32
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BSH",
+    "claim_incurred": 365783.64,
+    "GWP": 2050578.07,
+    "net_loss_ratio": 17.84
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "BTL",
+    "claim_incurred": 683671.81,
+    "GWP": 513777.98,
+    "net_loss_ratio": 133.07
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CHR",
+    "claim_incurred": 544155,
+    "GWP": 376948.04,
+    "net_loss_ratio": 144.36
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CMC",
+    "claim_incurred": 826978.03,
+    "GWP": 777469.7,
+    "net_loss_ratio": 106.37
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "CMR",
+    "claim_incurred": 239000,
+    "GWP": 1549076.39,
+    "net_loss_ratio": 15.43
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DAK",
+    "claim_incurred": 180467.15,
+    "GWP": 2935911.16,
+    "net_loss_ratio": 6.15
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DBR",
+    "claim_incurred": 71975.35,
+    "GWP": 785183.32,
+    "net_loss_ratio": 9.17
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DGM",
+    "claim_incurred": 861989.53,
+    "GWP": 1338165.07,
+    "net_loss_ratio": 64.42
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DLA",
+    "claim_incurred": 102000,
+    "GWP": 668942.39,
+    "net_loss_ratio": 15.25
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DLG",
+    "claim_incurred": 417574.61,
+    "GWP": 3224387.0259,
+    "net_loss_ratio": 12.95
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DRD",
+    "claim_incurred": 373117.81,
+    "GWP": 1201837.07,
+    "net_loss_ratio": 31.05
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "DSE",
+    "claim_incurred": 592730.26,
+    "GWP": 1042385.85,
+    "net_loss_ratio": 56.86
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "FFN",
+    "claim_incurred": 7795750.34,
+    "GWP": 23892158.24,
+    "net_loss_ratio": 32.63
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "FRI",
+    "claim_incurred": 0,
+    "GWP": 184149.46,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GBG",
+    "claim_incurred": 75000.93,
+    "GWP": 849015.59,
+    "net_loss_ratio": 8.83
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GFM",
+    "claim_incurred": 1895337.79,
+    "GWP": 4247954.3175,
+    "net_loss_ratio": 44.62
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GLL",
+    "claim_incurred": 4030475.16,
+    "GWP": 1061608.67,
+    "net_loss_ratio": 379.66
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GMB",
+    "claim_incurred": 0,
+    "GWP": 1149480.72,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GNB",
+    "claim_incurred": 652476.86,
+    "GWP": 1767575.16,
+    "net_loss_ratio": 36.91
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 2554230.16,
+    "GWP": 5623164.55,
+    "net_loss_ratio": 45.42
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "GTR",
+    "claim_incurred": 1051268.61,
+    "GWP": 5323886.94,
+    "net_loss_ratio": 19.75
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "HWS",
+    "claim_incurred": 201450.26,
+    "GWP": 3523836.27,
+    "net_loss_ratio": 5.72
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "JIG",
+    "claim_incurred": 0,
+    "GWP": 397837.84,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "JIM",
+    "claim_incurred": 0,
+    "GWP": 954373.6908,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KLY",
+    "claim_incurred": 1302557.4,
+    "GWP": 1914543.11,
+    "net_loss_ratio": 68.03
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KOL",
+    "claim_incurred": 1287661.29,
+    "GWP": 7323660.24,
+    "net_loss_ratio": 17.58
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "KZC",
+    "claim_incurred": 5517351.98,
+    "GWP": 5209562.34,
+    "net_loss_ratio": 105.91
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LBU",
+    "claim_incurred": 286788.02,
+    "GWP": 2259856.02,
+    "net_loss_ratio": 12.69
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LDT",
+    "claim_incurred": 3461652.053,
+    "GWP": 35199593,
+    "net_loss_ratio": 9.83
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "LGT",
+    "claim_incurred": 269652.88,
+    "GWP": 812990.79,
+    "net_loss_ratio": 33.17
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MGN",
+    "claim_incurred": 1500976.85999,
+    "GWP": 4989137.1918,
+    "net_loss_ratio": 30.08
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MKL",
+    "claim_incurred": 784279.55,
+    "GWP": 1428171.46,
+    "net_loss_ratio": 54.91
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MRT",
+    "claim_incurred": 639319.82,
+    "GWP": 2158757.83,
+    "net_loss_ratio": 29.62
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "MTU",
+    "claim_incurred": 1415320,
+    "GWP": 243496.82,
+    "net_loss_ratio": 581.25
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "NFS",
+    "claim_incurred": 1332018.23,
+    "GWP": 4123425.89,
+    "net_loss_ratio": 32.3
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "NKT",
+    "claim_incurred": 1761120.1,
+    "GWP": 861425.08,
+    "net_loss_ratio": 204.44
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "ODA",
+    "claim_incurred": 1599878.14,
+    "GWP": 6051779.84,
+    "net_loss_ratio": 26.44
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 965513.83,
+    "GWP": 2695764.2368,
+    "net_loss_ratio": 35.82
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SAB",
+    "claim_incurred": 1916162.69,
+    "GWP": 4225280.99,
+    "net_loss_ratio": 45.35
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SEA",
+    "claim_incurred": 305319.55,
+    "GWP": 13528193.74,
+    "net_loss_ratio": 2.26
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SGR",
+    "claim_incurred": 2287685.97,
+    "GWP": 2859903.92,
+    "net_loss_ratio": 79.99
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "SHA",
+    "claim_incurred": 730790.21,
+    "GWP": 2225146.82,
+    "net_loss_ratio": 32.84
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "TKB",
+    "claim_incurred": 463267.68,
+    "GWP": 2725792.15,
+    "net_loss_ratio": 17
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "TKH",
+    "claim_incurred": 863768.15,
+    "GWP": 4214000.032,
+    "net_loss_ratio": 20.5
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WLF",
+    "claim_incurred": 1717751.92,
+    "GWP": 5838691.14,
+    "net_loss_ratio": 29.42
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WLS",
+    "claim_incurred": 10000,
+    "GWP": 347760.73,
+    "net_loss_ratio": 2.88
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": "WSO",
+    "claim_incurred": 55000,
+    "GWP": 613998.68,
+    "net_loss_ratio": 8.96
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "22M",
+    "claim_incurred": 1153707.24,
+    "GWP": 2892732.6491,
+    "net_loss_ratio": 39.88
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ADD",
+    "claim_incurred": 5715415.43,
+    "GWP": 11155091.4,
+    "net_loss_ratio": 51.24
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ADM",
+    "claim_incurred": 667972.07,
+    "GWP": 10551496.05,
+    "net_loss_ratio": 6.33
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "AGA",
+    "claim_incurred": 146245.04,
+    "GWP": 761318.2,
+    "net_loss_ratio": 19.21
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ALG",
+    "claim_incurred": 1823215.39,
+    "GWP": 952619.14,
+    "net_loss_ratio": 191.39
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "AMB",
+    "claim_incurred": 122926.62,
+    "GWP": 1816756.45,
+    "net_loss_ratio": 6.77
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ARM",
+    "claim_incurred": 150000,
+    "GWP": 221918.38,
+    "net_loss_ratio": 67.59
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ASE",
+    "claim_incurred": 3180525.85,
+    "GWP": 853116.36,
+    "net_loss_ratio": 372.81
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BHD",
+    "claim_incurred": 1770335.65,
+    "GWP": 2505737.02,
+    "net_loss_ratio": 70.65
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BLH",
+    "claim_incurred": 986892.99,
+    "GWP": 932805.98,
+    "net_loss_ratio": 105.8
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BLR",
+    "claim_incurred": 2385728.64,
+    "GWP": 682371.48,
+    "net_loss_ratio": 349.62
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BOL",
+    "claim_incurred": 18009592.68,
+    "GWP": 15446038.31,
+    "net_loss_ratio": 116.6
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BSA",
+    "claim_incurred": 556315.67,
+    "GWP": 1101911.23,
+    "net_loss_ratio": 50.49
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BSH",
+    "claim_incurred": 557799.22,
+    "GWP": 1605738.62,
+    "net_loss_ratio": 34.74
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "BTL",
+    "claim_incurred": 28957.42,
+    "GWP": 295469.87,
+    "net_loss_ratio": 9.8
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CHR",
+    "claim_incurred": 1023719,
+    "GWP": 328831.005,
+    "net_loss_ratio": 311.32
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CMC",
+    "claim_incurred": 6052807.87,
+    "GWP": 1111372.95,
+    "net_loss_ratio": 544.62
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "CMR",
+    "claim_incurred": 2161104.35,
+    "GWP": 3592924.48,
+    "net_loss_ratio": 60.15
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DAK",
+    "claim_incurred": 784135.4,
+    "GWP": 1971853.3,
+    "net_loss_ratio": 39.77
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DBR",
+    "claim_incurred": 0,
+    "GWP": 408652.25,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DGM",
+    "claim_incurred": 663398.34,
+    "GWP": 1169555.76,
+    "net_loss_ratio": 56.72
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DLA",
+    "claim_incurred": 65000,
+    "GWP": 619821.49,
+    "net_loss_ratio": 10.49
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DLG",
+    "claim_incurred": 526531.1,
+    "GWP": 4040251.7633,
+    "net_loss_ratio": 13.03
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DRD",
+    "claim_incurred": 2033534.32,
+    "GWP": 2190881.17,
+    "net_loss_ratio": 92.82
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "DSE",
+    "claim_incurred": 746832.44,
+    "GWP": 565054.72,
+    "net_loss_ratio": 132.17
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "FFN",
+    "claim_incurred": 9928516,
+    "GWP": 14417801.89,
+    "net_loss_ratio": 68.86
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "FRI",
+    "claim_incurred": 16000,
+    "GWP": 303757.47,
+    "net_loss_ratio": 5.27
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GBG",
+    "claim_incurred": 442542.5,
+    "GWP": 476972.27,
+    "net_loss_ratio": 92.78
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GFM",
+    "claim_incurred": 1645944.839,
+    "GWP": 7703491.8608,
+    "net_loss_ratio": 21.37
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GLL",
+    "claim_incurred": 884226.87,
+    "GWP": 1411225.77,
+    "net_loss_ratio": 62.66
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GMB",
+    "claim_incurred": 518481.46,
+    "GWP": 1118795.8,
+    "net_loss_ratio": 46.34
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GNB",
+    "claim_incurred": 347673.07,
+    "GWP": 747666.31,
+    "net_loss_ratio": 46.5
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 596096.05,
+    "GWP": 6593243.44,
+    "net_loss_ratio": 9.04
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "GTR",
+    "claim_incurred": 1439134.54,
+    "GWP": 2818026.16,
+    "net_loss_ratio": 51.07
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "HWS",
+    "claim_incurred": 141711.37,
+    "GWP": 2432887.3633,
+    "net_loss_ratio": 5.82
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "JIG",
+    "claim_incurred": 0,
+    "GWP": 25493.06,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "JIM",
+    "claim_incurred": 131294.62,
+    "GWP": 1669350.35,
+    "net_loss_ratio": 7.87
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KLY",
+    "claim_incurred": 673658.26,
+    "GWP": 2232872.57,
+    "net_loss_ratio": 30.17
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KOL",
+    "claim_incurred": 0,
+    "GWP": 8828990.3,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "KZC",
+    "claim_incurred": 269726.29,
+    "GWP": 7322159.29,
+    "net_loss_ratio": 3.68
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LBU",
+    "claim_incurred": 1438499.26,
+    "GWP": 1638283.01,
+    "net_loss_ratio": 87.81
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LDT",
+    "claim_incurred": 6050314.61,
+    "GWP": 9606207.16,
+    "net_loss_ratio": 62.98
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "LGT",
+    "claim_incurred": 192722.62,
+    "GWP": 750642.69,
+    "net_loss_ratio": 25.67
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MGN",
+    "claim_incurred": 1162908.24,
+    "GWP": 6223583.3902,
+    "net_loss_ratio": 18.69
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MKL",
+    "claim_incurred": 987455,
+    "GWP": 2993208.91,
+    "net_loss_ratio": 32.99
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MRT",
+    "claim_incurred": 0,
+    "GWP": 1709779.66,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "MTU",
+    "claim_incurred": 1128140,
+    "GWP": 87852.24,
+    "net_loss_ratio": 1284.13
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "NFS",
+    "claim_incurred": 2188667.78,
+    "GWP": 5066263.74,
+    "net_loss_ratio": 43.2
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "NKT",
+    "claim_incurred": 889025,
+    "GWP": 1449300.16,
+    "net_loss_ratio": 61.34
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "ODA",
+    "claim_incurred": 457852.92,
+    "GWP": 4802281.41,
+    "net_loss_ratio": 9.53
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 3005555.53,
+    "GWP": 4018904.6286,
+    "net_loss_ratio": 74.79
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SAB",
+    "claim_incurred": 4902597.67,
+    "GWP": 2680323.15,
+    "net_loss_ratio": 182.91
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SEA",
+    "claim_incurred": 1033878.71,
+    "GWP": 1169321.74,
+    "net_loss_ratio": 88.42
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SGR",
+    "claim_incurred": 986740.29,
+    "GWP": 3980979.65,
+    "net_loss_ratio": 24.79
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "SHA",
+    "claim_incurred": 404723.91,
+    "GWP": 2434048.71,
+    "net_loss_ratio": 16.63
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "TKB",
+    "claim_incurred": 389687.8,
+    "GWP": 1167237.74,
+    "net_loss_ratio": 33.39
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "TKH",
+    "claim_incurred": 611380.19,
+    "GWP": 2845560.1891,
+    "net_loss_ratio": 21.49
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WLF",
+    "claim_incurred": 8459360.85,
+    "GWP": 5594315.04,
+    "net_loss_ratio": 151.21
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WLS",
+    "claim_incurred": 15000,
+    "GWP": 170947.28,
+    "net_loss_ratio": 8.77
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": "WSO",
+    "claim_incurred": 214575,
+    "GWP": 699357.77,
+    "net_loss_ratio": 30.68
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "22M",
+    "claim_incurred": 4612461.56,
+    "GWP": 6753983.5306,
+    "net_loss_ratio": 68.29
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ADD",
+    "claim_incurred": 2731698.38,
+    "GWP": 15315457.49,
+    "net_loss_ratio": 17.84
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ADM",
+    "claim_incurred": 216827.48,
+    "GWP": 15189100.59,
+    "net_loss_ratio": 1.43
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "AGA",
+    "claim_incurred": 125420.54,
+    "GWP": 560616.92,
+    "net_loss_ratio": 22.37
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ALG",
+    "claim_incurred": 636025.35,
+    "GWP": 963255,
+    "net_loss_ratio": 66.03
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "AMB",
+    "claim_incurred": 214909.07,
+    "GWP": 1094033.8,
+    "net_loss_ratio": 19.64
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ARM",
+    "claim_incurred": 18691.86,
+    "GWP": 322057.18,
+    "net_loss_ratio": 5.8
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ASE",
+    "claim_incurred": 557500,
+    "GWP": 374829.4,
+    "net_loss_ratio": 148.73
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BHD",
+    "claim_incurred": 756879.5101,
+    "GWP": 1577834.33,
+    "net_loss_ratio": 47.97
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BLH",
+    "claim_incurred": 370183.47,
+    "GWP": 921315.4,
+    "net_loss_ratio": 40.18
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BLR",
+    "claim_incurred": 1286945.34,
+    "GWP": 654551.76,
+    "net_loss_ratio": 196.61
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BOL",
+    "claim_incurred": 7926423.22,
+    "GWP": 10402200.23,
+    "net_loss_ratio": 76.2
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BSA",
+    "claim_incurred": 417875.46,
+    "GWP": 2184896.05,
+    "net_loss_ratio": 19.13
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BSH",
+    "claim_incurred": 626024.4,
+    "GWP": 1222060.43,
+    "net_loss_ratio": 51.23
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "BTL",
+    "claim_incurred": 1674606.28,
+    "GWP": 282359.97,
+    "net_loss_ratio": 593.07
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CHR",
+    "claim_incurred": 1648350.41,
+    "GWP": 181868.48,
+    "net_loss_ratio": 906.34
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CMC",
+    "claim_incurred": 706487.52,
+    "GWP": 814007.76,
+    "net_loss_ratio": 86.79
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "CMR",
+    "claim_incurred": 489762.38,
+    "GWP": 1165579.24,
+    "net_loss_ratio": 42.02
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DAK",
+    "claim_incurred": 243219.24,
+    "GWP": 683038.06,
+    "net_loss_ratio": 35.61
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DBR",
+    "claim_incurred": 359000,
+    "GWP": 376502.3,
+    "net_loss_ratio": 95.35
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DGM",
+    "claim_incurred": 0,
+    "GWP": 1684977.96,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DLA",
+    "claim_incurred": 100000,
+    "GWP": 1071097.32,
+    "net_loss_ratio": 9.34
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DLG",
+    "claim_incurred": 449420.43,
+    "GWP": 2064701.4162,
+    "net_loss_ratio": 21.77
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DRD",
+    "claim_incurred": 802384,
+    "GWP": 3096908.74,
+    "net_loss_ratio": 25.91
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "DSE",
+    "claim_incurred": 404891,
+    "GWP": 687806.76,
+    "net_loss_ratio": 58.87
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "FFN",
+    "claim_incurred": 13361230.27,
+    "GWP": 10715607.28,
+    "net_loss_ratio": 124.69
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "FRI",
+    "claim_incurred": 0,
+    "GWP": 502687.59,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GBG",
+    "claim_incurred": 170917.84,
+    "GWP": 504800.46,
+    "net_loss_ratio": 33.86
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GFM",
+    "claim_incurred": 384284.34,
+    "GWP": 7396877.5243,
+    "net_loss_ratio": 5.2
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GLL",
+    "claim_incurred": 650518.46,
+    "GWP": 1465342.16,
+    "net_loss_ratio": 44.39
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GMB",
+    "claim_incurred": 2743510.51,
+    "GWP": 1199020.23,
+    "net_loss_ratio": 228.81
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GNB",
+    "claim_incurred": 93095.75,
+    "GWP": 1340615.63,
+    "net_loss_ratio": 6.94
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 1218652.8,
+    "GWP": 1821984.7,
+    "net_loss_ratio": 66.89
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "GTR",
+    "claim_incurred": 868373.98,
+    "GWP": 5354684.94,
+    "net_loss_ratio": 16.22
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "HWS",
+    "claim_incurred": 621670,
+    "GWP": 1129042.57,
+    "net_loss_ratio": 55.06
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "JIG",
+    "claim_incurred": 0,
+    "GWP": 90238.76,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "JIM",
+    "claim_incurred": 303039.22,
+    "GWP": 1306374.11,
+    "net_loss_ratio": 23.2
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KLY",
+    "claim_incurred": 411678.64,
+    "GWP": 1311250.95,
+    "net_loss_ratio": 31.4
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KOL",
+    "claim_incurred": 4342147.66,
+    "GWP": 5308324.97,
+    "net_loss_ratio": 81.8
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "KZC",
+    "claim_incurred": 6677960.18,
+    "GWP": 3791925.82,
+    "net_loss_ratio": 176.11
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LBU",
+    "claim_incurred": 316875.47,
+    "GWP": 1747450.95,
+    "net_loss_ratio": 18.13
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LDT",
+    "claim_incurred": 4836300.7621,
+    "GWP": 4160134.88,
+    "net_loss_ratio": 116.25
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "LGT",
+    "claim_incurred": 243769.82,
+    "GWP": 503228.4,
+    "net_loss_ratio": 48.44
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MGN",
+    "claim_incurred": 1958032.24,
+    "GWP": 3118308.9417,
+    "net_loss_ratio": 62.79
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MJO",
+    "claim_incurred": 0,
+    "GWP": 307185.13,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MKL",
+    "claim_incurred": 432626.45,
+    "GWP": 5735965.01,
+    "net_loss_ratio": 7.54
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MRT",
+    "claim_incurred": 6778354.83,
+    "GWP": 2628191.15,
+    "net_loss_ratio": 257.91
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "MTU",
+    "claim_incurred": 0,
+    "GWP": 82206.88,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "NFS",
+    "claim_incurred": 1584594.82,
+    "GWP": 2857679.2079,
+    "net_loss_ratio": 55.45
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "NKT",
+    "claim_incurred": 0,
+    "GWP": 1045797.83,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "ODA",
+    "claim_incurred": 2299992.01,
+    "GWP": 3692736.32,
+    "net_loss_ratio": 62.28
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 532452.3,
+    "GWP": 4149288.0673,
+    "net_loss_ratio": 12.83
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SAB",
+    "claim_incurred": 392510.23,
+    "GWP": 2031098.59,
+    "net_loss_ratio": 19.33
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SEA",
+    "claim_incurred": 352996.79,
+    "GWP": 735078.14,
+    "net_loss_ratio": 48.02
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SGR",
+    "claim_incurred": 1134785.03,
+    "GWP": 3121502.71,
+    "net_loss_ratio": 36.35
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "SHA",
+    "claim_incurred": 1263410,
+    "GWP": 2764669.77,
+    "net_loss_ratio": 45.7
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "TKB",
+    "claim_incurred": 904685.32,
+    "GWP": 779404.32,
+    "net_loss_ratio": 116.07
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "TKH",
+    "claim_incurred": 1164831.22,
+    "GWP": 2455122.1251,
+    "net_loss_ratio": 47.44
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WLF",
+    "claim_incurred": 632794.98,
+    "GWP": 3085197.69,
+    "net_loss_ratio": 20.51
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WLS",
+    "claim_incurred": 0,
+    "GWP": 178900.97,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": "WSO",
+    "claim_incurred": 0,
+    "GWP": 403024.66,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "22M",
+    "claim_incurred": 253033.74,
+    "GWP": 3067562.0374,
+    "net_loss_ratio": 8.25
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ADD",
+    "claim_incurred": 7766285.83,
+    "GWP": 6738101.42,
+    "net_loss_ratio": 115.26
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ADM",
+    "claim_incurred": 2402486.18,
+    "GWP": 5840703.57,
+    "net_loss_ratio": 41.13
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "AGA",
+    "claim_incurred": 220702.75,
+    "GWP": 566315.97,
+    "net_loss_ratio": 38.97
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ALG",
+    "claim_incurred": 119184.79,
+    "GWP": 1140221.33,
+    "net_loss_ratio": 10.45
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "AMB",
+    "claim_incurred": 112706.14,
+    "GWP": 1601305.71,
+    "net_loss_ratio": 7.04
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ARM",
+    "claim_incurred": 45000,
+    "GWP": 431799.68,
+    "net_loss_ratio": 10.42
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ASE",
+    "claim_incurred": 0,
+    "GWP": 541724.76,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BHD",
+    "claim_incurred": 0,
+    "GWP": 2044477.59,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BLH",
+    "claim_incurred": 2840482.3,
+    "GWP": 1095287.48,
+    "net_loss_ratio": 259.34
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BLR",
+    "claim_incurred": 133999.62,
+    "GWP": 1205937.29,
+    "net_loss_ratio": 11.11
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BOL",
+    "claim_incurred": 144988430.29,
+    "GWP": 14608495.62,
+    "net_loss_ratio": 992.49
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BSA",
+    "claim_incurred": 406475.77,
+    "GWP": 2002184.62,
+    "net_loss_ratio": 20.3
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BSH",
+    "claim_incurred": 583149.82,
+    "GWP": 1879757.4,
+    "net_loss_ratio": 31.02
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "BTL",
+    "claim_incurred": 0,
+    "GWP": 641362.08,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CHR",
+    "claim_incurred": 0,
+    "GWP": 244477.99,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CMC",
+    "claim_incurred": 666963.47,
+    "GWP": 1365344.59,
+    "net_loss_ratio": 48.85
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "CMR",
+    "claim_incurred": 935271.72,
+    "GWP": 1548376.82,
+    "net_loss_ratio": 60.4
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DAK",
+    "claim_incurred": 143900.89,
+    "GWP": 662985.2,
+    "net_loss_ratio": 21.7
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DBR",
+    "claim_incurred": 1025047.5,
+    "GWP": 257800.7,
+    "net_loss_ratio": 397.61
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DGM",
+    "claim_incurred": 888825.44,
+    "GWP": 1194354.45,
+    "net_loss_ratio": 74.42
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DLA",
+    "claim_incurred": 16603.49,
+    "GWP": 760478.73,
+    "net_loss_ratio": 2.18
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DLG",
+    "claim_incurred": 876536.36,
+    "GWP": 2319458.9215,
+    "net_loss_ratio": 37.79
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DRD",
+    "claim_incurred": 1580125.35,
+    "GWP": 2459209.77,
+    "net_loss_ratio": 64.25
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "DSE",
+    "claim_incurred": 230392.65,
+    "GWP": 509601.08,
+    "net_loss_ratio": 45.21
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "FFN",
+    "claim_incurred": 49721961.16,
+    "GWP": 19016205.91,
+    "net_loss_ratio": 261.47
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "FRI",
+    "claim_incurred": 0,
+    "GWP": 99118.34,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GBG",
+    "claim_incurred": 824623,
+    "GWP": 996491.09,
+    "net_loss_ratio": 82.75
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GFM",
+    "claim_incurred": 1235439.88,
+    "GWP": 6349336.06,
+    "net_loss_ratio": 19.46
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GLL",
+    "claim_incurred": 272236.6599,
+    "GWP": 1483559.1,
+    "net_loss_ratio": 18.35
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GMB",
+    "claim_incurred": 112150.05,
+    "GWP": 1848265.49,
+    "net_loss_ratio": 6.07
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GNB",
+    "claim_incurred": 0,
+    "GWP": 1545082.77,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 0,
+    "GWP": 4745101.77,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "GTR",
+    "claim_incurred": 1739568.08,
+    "GWP": 3810050.64,
+    "net_loss_ratio": 45.66
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "HWS",
+    "claim_incurred": 0,
+    "GWP": 2529626.08,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "JIG",
+    "claim_incurred": 18000,
+    "GWP": 212591.05,
+    "net_loss_ratio": 8.47
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "JIM",
+    "claim_incurred": 8525609.45,
+    "GWP": 1611153.68,
+    "net_loss_ratio": 529.16
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KLY",
+    "claim_incurred": 683655.35,
+    "GWP": 2335873.16,
+    "net_loss_ratio": 29.27
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KOL",
+    "claim_incurred": 5227610.9,
+    "GWP": 5250643.3,
+    "net_loss_ratio": 99.56
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "KZC",
+    "claim_incurred": 0,
+    "GWP": 7383551.5089,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LBU",
+    "claim_incurred": 668438.87,
+    "GWP": 1642488.49,
+    "net_loss_ratio": 40.7
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LDT",
+    "claim_incurred": 3522409.7,
+    "GWP": 6632950.45,
+    "net_loss_ratio": 53.1
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "LGT",
+    "claim_incurred": 272871.99,
+    "GWP": 650792.54,
+    "net_loss_ratio": 41.93
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MGN",
+    "claim_incurred": 2303981.7101,
+    "GWP": 3686288.1864,
+    "net_loss_ratio": 62.5
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MJO",
+    "claim_incurred": 0,
+    "GWP": 81242.93,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MKL",
+    "claim_incurred": 946492.49,
+    "GWP": 1199948.59,
+    "net_loss_ratio": 78.88
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MRT",
+    "claim_incurred": 341465.55,
+    "GWP": 2448909.3,
+    "net_loss_ratio": 13.94
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "MTU",
+    "claim_incurred": 0,
+    "GWP": 777219.51,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "NFS",
+    "claim_incurred": 736047.2,
+    "GWP": 4271612.16,
+    "net_loss_ratio": 17.23
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "NKT",
+    "claim_incurred": 0,
+    "GWP": 1378323.4,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "ODA",
+    "claim_incurred": 554856.72,
+    "GWP": 4773737.98,
+    "net_loss_ratio": 11.62
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 1303513.72,
+    "GWP": 2854552.1402,
+    "net_loss_ratio": 45.66
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SAB",
+    "claim_incurred": 674895.57,
+    "GWP": 3041413.99,
+    "net_loss_ratio": 22.19
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SEA",
+    "claim_incurred": 271013.57,
+    "GWP": 1591368.39,
+    "net_loss_ratio": 17.03
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SGR",
+    "claim_incurred": 179998.12,
+    "GWP": 3097801.15,
+    "net_loss_ratio": 5.81
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "SHA",
+    "claim_incurred": 2128869.4,
+    "GWP": 1316649.7,
+    "net_loss_ratio": 161.69
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "TKB",
+    "claim_incurred": 298790.27,
+    "GWP": 620213.79,
+    "net_loss_ratio": 48.18
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "TKH",
+    "claim_incurred": 416347.63,
+    "GWP": 3816708.2287,
+    "net_loss_ratio": 10.91
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WLF",
+    "claim_incurred": 1169572.16,
+    "GWP": 4035865.232,
+    "net_loss_ratio": 28.98
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WLS",
+    "claim_incurred": 0,
+    "GWP": 264897.35,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": "WSO",
+    "claim_incurred": 676009.4,
+    "GWP": 536274.26,
+    "net_loss_ratio": 126.06
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "22M",
+    "claim_incurred": 2681275.17,
+    "GWP": 5564521.5201,
+    "net_loss_ratio": 48.19
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ADD",
+    "claim_incurred": 4723077.76,
+    "GWP": 5307507.53,
+    "net_loss_ratio": 88.99
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ADM",
+    "claim_incurred": 899667.36,
+    "GWP": 8593706.68,
+    "net_loss_ratio": 10.47
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "AGA",
+    "claim_incurred": 205305.57,
+    "GWP": 1191293.41,
+    "net_loss_ratio": 17.23
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ALG",
+    "claim_incurred": 672843.33,
+    "GWP": 1716237.52,
+    "net_loss_ratio": 39.2
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "AMB",
+    "claim_incurred": 603258.72,
+    "GWP": 1105839.27,
+    "net_loss_ratio": 54.55
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ARM",
+    "claim_incurred": 0,
+    "GWP": 300468.51,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ASE",
+    "claim_incurred": 0,
+    "GWP": 493952.12,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BHD",
+    "claim_incurred": 596209.23,
+    "GWP": 893680.93,
+    "net_loss_ratio": 66.71
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BLH",
+    "claim_incurred": 104017.23,
+    "GWP": 1143891.64,
+    "net_loss_ratio": 9.09
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BLR",
+    "claim_incurred": 264500,
+    "GWP": 560081,
+    "net_loss_ratio": 47.23
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BOL",
+    "claim_incurred": 25511893.01,
+    "GWP": 17454824.29,
+    "net_loss_ratio": 146.16
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BSA",
+    "claim_incurred": 394523.81,
+    "GWP": 1319792.3,
+    "net_loss_ratio": 29.89
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BSH",
+    "claim_incurred": 1177305.74,
+    "GWP": 2338562.39,
+    "net_loss_ratio": 50.34
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "BTL",
+    "claim_incurred": 213785.02,
+    "GWP": 540159.69,
+    "net_loss_ratio": 39.58
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CHR",
+    "claim_incurred": 694545,
+    "GWP": 381066.88,
+    "net_loss_ratio": 182.26
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CMC",
+    "claim_incurred": 718001.79,
+    "GWP": 1065321.9508,
+    "net_loss_ratio": 67.4
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "CMR",
+    "claim_incurred": 434798.34,
+    "GWP": 1223888.18,
+    "net_loss_ratio": 35.53
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DAK",
+    "claim_incurred": 522895.67,
+    "GWP": 1652799.39,
+    "net_loss_ratio": 31.64
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DBR",
+    "claim_incurred": 2669890,
+    "GWP": 358866.77,
+    "net_loss_ratio": 743.98
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DGM",
+    "claim_incurred": 840413.35001,
+    "GWP": 1468964.78,
+    "net_loss_ratio": 57.21
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DLA",
+    "claim_incurred": 90000,
+    "GWP": 1704829.85,
+    "net_loss_ratio": 5.28
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DLG",
+    "claim_incurred": 1656327.5,
+    "GWP": 7034289.5799,
+    "net_loss_ratio": 23.55
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DRD",
+    "claim_incurred": 583626,
+    "GWP": 2819466.87,
+    "net_loss_ratio": 20.7
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "DSE",
+    "claim_incurred": 0,
+    "GWP": 383199.95,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "FFN",
+    "claim_incurred": 4457568.74,
+    "GWP": 8691412.47,
+    "net_loss_ratio": 51.29
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "FRI",
+    "claim_incurred": 103697.68,
+    "GWP": 246946.29,
+    "net_loss_ratio": 41.99
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GBG",
+    "claim_incurred": 971824.71,
+    "GWP": 1097535.6,
+    "net_loss_ratio": 88.55
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GFM",
+    "claim_incurred": 1525139.58,
+    "GWP": 3678222.7759,
+    "net_loss_ratio": 41.46
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GLL",
+    "claim_incurred": 2323895.33,
+    "GWP": 1967014.62,
+    "net_loss_ratio": 118.14
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GMB",
+    "claim_incurred": 157000,
+    "GWP": 896440.57,
+    "net_loss_ratio": 17.51
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GNB",
+    "claim_incurred": 211279.61,
+    "GWP": 1356065.68,
+    "net_loss_ratio": 15.58
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 4820108.07,
+    "GWP": 2462462.71,
+    "net_loss_ratio": 195.74
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "GTR",
+    "claim_incurred": 2265701.15,
+    "GWP": 6376934.51,
+    "net_loss_ratio": 35.53
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "HWS",
+    "claim_incurred": 309419.28,
+    "GWP": 1901331.82,
+    "net_loss_ratio": 16.27
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "JIG",
+    "claim_incurred": 0,
+    "GWP": 399689.69,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "JIM",
+    "claim_incurred": 212968,
+    "GWP": 1048011.03,
+    "net_loss_ratio": 20.32
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KLY",
+    "claim_incurred": 2161612.861,
+    "GWP": 1198694.11,
+    "net_loss_ratio": 180.33
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KOL",
+    "claim_incurred": 1394777.87,
+    "GWP": 4210449.26,
+    "net_loss_ratio": 33.13
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "KZC",
+    "claim_incurred": 4211338.03,
+    "GWP": 5559985.4559,
+    "net_loss_ratio": 75.74
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LBU",
+    "claim_incurred": 4402287.47,
+    "GWP": 2071124.97,
+    "net_loss_ratio": 212.56
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LDT",
+    "claim_incurred": 8497314.441,
+    "GWP": 8487195.05,
+    "net_loss_ratio": 100.12
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "LGT",
+    "claim_incurred": 289272,
+    "GWP": 682787.21,
+    "net_loss_ratio": 42.37
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MGN",
+    "claim_incurred": 3339489.99,
+    "GWP": 3777940.1696,
+    "net_loss_ratio": 88.39
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MJO",
+    "claim_incurred": 0,
+    "GWP": 425799.48,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MKL",
+    "claim_incurred": 1878810.04,
+    "GWP": 367143.99,
+    "net_loss_ratio": 511.74
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MRT",
+    "claim_incurred": 670567.79,
+    "GWP": 1636972.81,
+    "net_loss_ratio": 40.96
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "MTU",
+    "claim_incurred": 0,
+    "GWP": 280235.59,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "NFS",
+    "claim_incurred": 1811094.27,
+    "GWP": 3399023.04,
+    "net_loss_ratio": 53.28
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "NKT",
+    "claim_incurred": 305660,
+    "GWP": 1472646.35,
+    "net_loss_ratio": 20.76
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "ODA",
+    "claim_incurred": 740900.83,
+    "GWP": 2149622.98,
+    "net_loss_ratio": 34.47
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 644546.26,
+    "GWP": 1543365.7701,
+    "net_loss_ratio": 41.76
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SAB",
+    "claim_incurred": 683461.98,
+    "GWP": 1684328.55,
+    "net_loss_ratio": 40.58
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SEA",
+    "claim_incurred": 1205682.75,
+    "GWP": 1822758.17,
+    "net_loss_ratio": 66.15
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SGR",
+    "claim_incurred": 1363850.12,
+    "GWP": 3071555.78,
+    "net_loss_ratio": 44.4
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "SHA",
+    "claim_incurred": 35190.28,
+    "GWP": 2893439.7,
+    "net_loss_ratio": 1.22
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "TKB",
+    "claim_incurred": 0,
+    "GWP": 704473.49,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "TKH",
+    "claim_incurred": 328524.68,
+    "GWP": 2906090.8373,
+    "net_loss_ratio": 11.3
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WLF",
+    "claim_incurred": 2071742.29,
+    "GWP": 2981019.45,
+    "net_loss_ratio": 69.5
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WLS",
+    "claim_incurred": 4491,
+    "GWP": 94170.51,
+    "net_loss_ratio": 4.77
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": "WSO",
+    "claim_incurred": 460964.4,
+    "GWP": 672094.3,
+    "net_loss_ratio": 68.59
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "22M",
+    "claim_incurred": 3826427.82,
+    "GWP": 1497401.0918,
+    "net_loss_ratio": 255.54
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ADD",
+    "claim_incurred": 71070614.4,
+    "GWP": 10319469.03,
+    "net_loss_ratio": 688.7
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ADM",
+    "claim_incurred": 3118635.81,
+    "GWP": 10560903.86,
+    "net_loss_ratio": 29.53
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "AGA",
+    "claim_incurred": 34000,
+    "GWP": 1037831.02,
+    "net_loss_ratio": 3.28
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ALG",
+    "claim_incurred": 418919.71,
+    "GWP": 1149505.09,
+    "net_loss_ratio": 36.44
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "AMB",
+    "claim_incurred": 812338.25,
+    "GWP": 1270248.78,
+    "net_loss_ratio": 63.95
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ARM",
+    "claim_incurred": 0,
+    "GWP": 141010.88,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ASE",
+    "claim_incurred": 306045,
+    "GWP": 129012.87,
+    "net_loss_ratio": 237.22
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BHD",
+    "claim_incurred": 853515.012,
+    "GWP": 873177.26,
+    "net_loss_ratio": 97.75
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BLH",
+    "claim_incurred": 1503142.55,
+    "GWP": 470629.52,
+    "net_loss_ratio": 319.39
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BLR",
+    "claim_incurred": 1125203.31,
+    "GWP": 796506.62,
+    "net_loss_ratio": 141.27
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BOL",
+    "claim_incurred": 8219619.581,
+    "GWP": 26549647.0239,
+    "net_loss_ratio": 30.96
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BSA",
+    "claim_incurred": 222613.02,
+    "GWP": 1258463.31,
+    "net_loss_ratio": 17.69
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BSH",
+    "claim_incurred": 805328.67,
+    "GWP": 1466530.17,
+    "net_loss_ratio": 54.91
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "BTL",
+    "claim_incurred": 279881.5,
+    "GWP": 630897.97,
+    "net_loss_ratio": 44.36
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CHR",
+    "claim_incurred": 460030,
+    "GWP": 329228.01,
+    "net_loss_ratio": 139.73
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CMC",
+    "claim_incurred": 829971.08,
+    "GWP": 621303.27,
+    "net_loss_ratio": 133.59
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "CMR",
+    "claim_incurred": 270017.76,
+    "GWP": 1831595.94,
+    "net_loss_ratio": 14.74
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DAK",
+    "claim_incurred": 900729.02,
+    "GWP": 1250871.63,
+    "net_loss_ratio": 72.01
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DBR",
+    "claim_incurred": 164330.54,
+    "GWP": 385717.43,
+    "net_loss_ratio": 42.6
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DGM",
+    "claim_incurred": 474284.18,
+    "GWP": 1174206.91,
+    "net_loss_ratio": 40.39
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DLA",
+    "claim_incurred": 0,
+    "GWP": 741260.96,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DLG",
+    "claim_incurred": 1921693.02,
+    "GWP": 1783944.0348,
+    "net_loss_ratio": 107.72
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DRD",
+    "claim_incurred": 345154.95,
+    "GWP": 2912902.43,
+    "net_loss_ratio": 11.85
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "DSE",
+    "claim_incurred": 432544.32,
+    "GWP": 206692.75,
+    "net_loss_ratio": 209.27
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "FFN",
+    "claim_incurred": 8595909.79,
+    "GWP": 38170216.74,
+    "net_loss_ratio": 22.52
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "FRI",
+    "claim_incurred": 98500,
+    "GWP": 138064.53,
+    "net_loss_ratio": 71.34
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GBG",
+    "claim_incurred": 679348.56,
+    "GWP": 779412.44,
+    "net_loss_ratio": 87.16
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GFM",
+    "claim_incurred": 3958505.1,
+    "GWP": 4208834.7916,
+    "net_loss_ratio": 94.05
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GLL",
+    "claim_incurred": 7653037.4899,
+    "GWP": 1301824.72,
+    "net_loss_ratio": 587.87
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GMB",
+    "claim_incurred": 166180.49,
+    "GWP": 1638312.97,
+    "net_loss_ratio": 10.14
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GNB",
+    "claim_incurred": 172448.5,
+    "GWP": 1074054.22,
+    "net_loss_ratio": 16.06
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GRJ",
+    "claim_incurred": 2726773.94,
+    "GWP": 2932573.55,
+    "net_loss_ratio": 92.98
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "GTR",
+    "claim_incurred": 2592421.19,
+    "GWP": 2366991.5,
+    "net_loss_ratio": 109.52
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "HWS",
+    "claim_incurred": 249802,
+    "GWP": 1367736.57,
+    "net_loss_ratio": 18.26
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "JIG",
+    "claim_incurred": 0,
+    "GWP": 453295.33,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "JIM",
+    "claim_incurred": 270053.21,
+    "GWP": 866977.82,
+    "net_loss_ratio": 31.15
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KLY",
+    "claim_incurred": 1660999.14,
+    "GWP": 1364631.89,
+    "net_loss_ratio": 121.72
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KOL",
+    "claim_incurred": 9209703.14,
+    "GWP": 5220537.15,
+    "net_loss_ratio": 176.41
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "KZC",
+    "claim_incurred": 767118.041,
+    "GWP": 5220749.16,
+    "net_loss_ratio": 14.69
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LBU",
+    "claim_incurred": 8430913.68,
+    "GWP": 1672394.53,
+    "net_loss_ratio": 504.12
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LDT",
+    "claim_incurred": 2445549.2079,
+    "GWP": 4414009.86,
+    "net_loss_ratio": 55.4
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "LGT",
+    "claim_incurred": 250074.21,
+    "GWP": 568787.42,
+    "net_loss_ratio": 43.97
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MGN",
+    "claim_incurred": 1626777.7099,
+    "GWP": 2498638.9404,
+    "net_loss_ratio": 65.11
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MJO",
+    "claim_incurred": 0,
+    "GWP": 44454.52,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MKL",
+    "claim_incurred": 808961.33,
+    "GWP": 1144673.06,
+    "net_loss_ratio": 70.67
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MRT",
+    "claim_incurred": 1154547.32,
+    "GWP": 1143579.44,
+    "net_loss_ratio": 100.96
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "MTU",
+    "claim_incurred": 13000,
+    "GWP": 164233.6,
+    "net_loss_ratio": 7.92
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "NFS",
+    "claim_incurred": 35178352.63,
+    "GWP": 5570731.9924,
+    "net_loss_ratio": 631.49
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "NKT",
+    "claim_incurred": 336181.97,
+    "GWP": 554875.57,
+    "net_loss_ratio": 60.59
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "ODA",
+    "claim_incurred": 480011.74,
+    "GWP": 1477213.28,
+    "net_loss_ratio": 32.49
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "PIZ",
+    "claim_incurred": 396531.13,
+    "GWP": 1796023.7564,
+    "net_loss_ratio": 22.08
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SAB",
+    "claim_incurred": 724085.74,
+    "GWP": 1954386.9,
+    "net_loss_ratio": 37.05
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SEA",
+    "claim_incurred": 911496.66,
+    "GWP": 686463.05,
+    "net_loss_ratio": 132.78
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SGR",
+    "claim_incurred": 2113575.95,
+    "GWP": 1374828.52,
+    "net_loss_ratio": 153.73
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "SHA",
+    "claim_incurred": 220690.48,
+    "GWP": 1480626.57,
+    "net_loss_ratio": 14.91
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "TKB",
+    "claim_incurred": 346220.32,
+    "GWP": 647327.16,
+    "net_loss_ratio": 53.48
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "TKH",
+    "claim_incurred": 788570.05,
+    "GWP": 2720857.7096,
+    "net_loss_ratio": 28.98
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WLF",
+    "claim_incurred": 2915792.3,
+    "GWP": 5510187.086,
+    "net_loss_ratio": 52.92
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WLS",
+    "claim_incurred": 0,
+    "GWP": 202659,
+    "net_loss_ratio": 0
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": "WSO",
+    "claim_incurred": 0,
+    "GWP": 202723.01,
+    "net_loss_ratio": 0
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "month_year": "month_year",
+    "branch_name": "claim_incurred",
+    "claim_incurred": "GWP",
+    "GWP": "net_loss_ratio"
+  },
+  {
+    "month_year": "Jul-23",
+    "branch_name": 81437111.29999,
+    "claim_incurred": 266893670.6025,
+    "GWP": 30.51
+  },
+  {
+    "month_year": "Aug-23",
+    "branch_name": 102035249.669,
+    "claim_incurred": 184965452.1994,
+    "GWP": 55.16
+  },
+  {
+    "month_year": "Sep-23",
+    "branch_name": 83482808.1622,
+    "claim_incurred": 158465989.5531,
+    "GWP": 52.68
+  },
+  {
+    "month_year": "Oct-23",
+    "branch_name": 246401279.33,
+    "claim_incurred": 162663232.5251,
+    "GWP": 151.48
+  },
+  {
+    "month_year": "Nov-23",
+    "branch_name": 99741240.84201,
+    "claim_incurred": 150832197.7896,
+    "GWP": 66.13
+  },
+  {
+    "month_year": "Dec-23",
+    "branch_name": 195686030.4717,
+    "claim_incurred": 172322846.2169,
+    "GWP": 113.56
+  }
+]

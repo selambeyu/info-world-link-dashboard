@@ -1,0 +1,22 @@
+[
+  {
+    "business_source": "Direct",
+    "num_policy": 60917
+  },
+  {
+    "business_source": "Bank",
+    "num_policy": 4185
+  },
+  {
+    "business_source": "Brokers",
+    "num_policy": 1836
+  },
+  {
+    "business_source": "Licensed Agent",
+    "num_policy": 6177
+  },
+  {
+    "business_source": "Other Insurance Institutions",
+    "num_policy": 23
+  }
+]

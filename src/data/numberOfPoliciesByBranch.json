@@ -1,0 +1,1822 @@
+[
+  {
+    "year_month": "Jul-23",
+    "branch": "22M",
+    "num_policy": 318
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ADD",
+    "num_policy": 472
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ADM",
+    "num_policy": 274
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "AGA",
+    "num_policy": 69
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ALG",
+    "num_policy": 211
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "AMB",
+    "num_policy": 130
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ARM",
+    "num_policy": 75
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ASE",
+    "num_policy": 53
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BHD",
+    "num_policy": 216
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BLH",
+    "num_policy": 104
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BLR",
+    "num_policy": 89
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BOL",
+    "num_policy": 806
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BSA",
+    "num_policy": 154
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BSH",
+    "num_policy": 271
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "BTL",
+    "num_policy": 109
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "CHR",
+    "num_policy": 265
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "CMC",
+    "num_policy": 152
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "CMR",
+    "num_policy": 148
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DAK",
+    "num_policy": 102
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DBR",
+    "num_policy": 74
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DGM",
+    "num_policy": 139
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DLA",
+    "num_policy": 162
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DLG",
+    "num_policy": 208
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DRD",
+    "num_policy": 164
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "DSE",
+    "num_policy": 278
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "FFN",
+    "num_policy": 829
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "FRI",
+    "num_policy": 31
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GBG",
+    "num_policy": 76
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GFM",
+    "num_policy": 232
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GLL",
+    "num_policy": 210
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GMB",
+    "num_policy": 116
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GNB",
+    "num_policy": 110
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GRJ",
+    "num_policy": 238
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "GTR",
+    "num_policy": 257
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "HWS",
+    "num_policy": 331
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "JIG",
+    "num_policy": 29
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "JIM",
+    "num_policy": 112
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "KLY",
+    "num_policy": 225
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "KOL",
+    "num_policy": 279
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "KZC",
+    "num_policy": 451
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "LBU",
+    "num_policy": 201
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "LDT",
+    "num_policy": 440
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "LGT",
+    "num_policy": 176
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "MGN",
+    "num_policy": 401
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "MKL",
+    "num_policy": 31
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "MRT",
+    "num_policy": 133
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "MTU",
+    "num_policy": 27
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "NFS",
+    "num_policy": 231
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "NKT",
+    "num_policy": 152
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "ODA",
+    "num_policy": 198
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "PIZ",
+    "num_policy": 311
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "SAB",
+    "num_policy": 306
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "SEA",
+    "num_policy": 96
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "SGR",
+    "num_policy": 338
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "SHA",
+    "num_policy": 239
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "TKB",
+    "num_policy": 92
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "TKH",
+    "num_policy": 302
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "WLF",
+    "num_policy": 401
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "WLS",
+    "num_policy": 58
+  },
+  {
+    "year_month": "Jul-23",
+    "branch": "WSO",
+    "num_policy": 69
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "22M",
+    "num_policy": 318
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ADD",
+    "num_policy": 468
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ADM",
+    "num_policy": 277
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "AGA",
+    "num_policy": 54
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ALG",
+    "num_policy": 248
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "AMB",
+    "num_policy": 201
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ARM",
+    "num_policy": 72
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ASE",
+    "num_policy": 87
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BHD",
+    "num_policy": 203
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BLH",
+    "num_policy": 98
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BLR",
+    "num_policy": 98
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BOL",
+    "num_policy": 629
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BSA",
+    "num_policy": 163
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BSH",
+    "num_policy": 268
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "BTL",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "CHR",
+    "num_policy": 200
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "CMC",
+    "num_policy": 192
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "CMR",
+    "num_policy": 165
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DAK",
+    "num_policy": 88
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DBR",
+    "num_policy": 23
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DGM",
+    "num_policy": 118
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DLA",
+    "num_policy": 166
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DLG",
+    "num_policy": 238
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DRD",
+    "num_policy": 191
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "DSE",
+    "num_policy": 220
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "FFN",
+    "num_policy": 715
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "FRI",
+    "num_policy": 32
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GBG",
+    "num_policy": 99
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GFM",
+    "num_policy": 269
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GLL",
+    "num_policy": 257
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GMB",
+    "num_policy": 117
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GNB",
+    "num_policy": 84
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GRJ",
+    "num_policy": 234
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "GTR",
+    "num_policy": 193
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "HWS",
+    "num_policy": 290
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "JIG",
+    "num_policy": 17
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "JIM",
+    "num_policy": 162
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "KLY",
+    "num_policy": 281
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "KOL",
+    "num_policy": 252
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "KZC",
+    "num_policy": 452
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "LBU",
+    "num_policy": 251
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "LDT",
+    "num_policy": 467
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "LGT",
+    "num_policy": 137
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "MGN",
+    "num_policy": 480
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "MKL",
+    "num_policy": 135
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "MRT",
+    "num_policy": 101
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "MTU",
+    "num_policy": 42
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "NFS",
+    "num_policy": 256
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "NKT",
+    "num_policy": 131
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "ODA",
+    "num_policy": 158
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "PIZ",
+    "num_policy": 299
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "SAB",
+    "num_policy": 321
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "SEA",
+    "num_policy": 83
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "SGR",
+    "num_policy": 342
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "SHA",
+    "num_policy": 238
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "TKB",
+    "num_policy": 118
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "TKH",
+    "num_policy": 265
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "WLF",
+    "num_policy": 312
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "WLS",
+    "num_policy": 54
+  },
+  {
+    "year_month": "Aug-23",
+    "branch": "WSO",
+    "num_policy": 94
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "22M",
+    "num_policy": 245
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ADD",
+    "num_policy": 385
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ADM",
+    "num_policy": 211
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "AGA",
+    "num_policy": 79
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ALG",
+    "num_policy": 176
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "AMB",
+    "num_policy": 120
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ARM",
+    "num_policy": 69
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ASE",
+    "num_policy": 75
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BHD",
+    "num_policy": 197
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BLH",
+    "num_policy": 123
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BLR",
+    "num_policy": 97
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BOL",
+    "num_policy": 517
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BSA",
+    "num_policy": 125
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BSH",
+    "num_policy": 212
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "BTL",
+    "num_policy": 109
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "CHR",
+    "num_policy": 132
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "CMC",
+    "num_policy": 157
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "CMR",
+    "num_policy": 115
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DAK",
+    "num_policy": 89
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DBR",
+    "num_policy": 41
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DGM",
+    "num_policy": 133
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DLA",
+    "num_policy": 153
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DLG",
+    "num_policy": 194
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DRD",
+    "num_policy": 166
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "DSE",
+    "num_policy": 221
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "FFN",
+    "num_policy": 577
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "FRI",
+    "num_policy": 27
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GBG",
+    "num_policy": 76
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GFM",
+    "num_policy": 258
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GLL",
+    "num_policy": 225
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GMB",
+    "num_policy": 128
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GNB",
+    "num_policy": 84
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GRJ",
+    "num_policy": 191
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "GTR",
+    "num_policy": 182
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "HWS",
+    "num_policy": 230
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "JIG",
+    "num_policy": 15
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "JIM",
+    "num_policy": 108
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "KLY",
+    "num_policy": 246
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "KOL",
+    "num_policy": 201
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "KZC",
+    "num_policy": 307
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "LBU",
+    "num_policy": 213
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "LDT",
+    "num_policy": 391
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "LGT",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "MGN",
+    "num_policy": 343
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "MJO",
+    "num_policy": 44
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "MKL",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "MRT",
+    "num_policy": 95
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "MTU",
+    "num_policy": 46
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "NFS",
+    "num_policy": 238
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "NKT",
+    "num_policy": 127
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "ODA",
+    "num_policy": 135
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "PIZ",
+    "num_policy": 272
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "SAB",
+    "num_policy": 199
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "SEA",
+    "num_policy": 82
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "SGR",
+    "num_policy": 227
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "SHA",
+    "num_policy": 203
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "TKB",
+    "num_policy": 122
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "TKH",
+    "num_policy": 228
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "WLF",
+    "num_policy": 243
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "WLS",
+    "num_policy": 36
+  },
+  {
+    "year_month": "Sep-23",
+    "branch": "WSO",
+    "num_policy": 77
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "22M",
+    "num_policy": 288
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ADD",
+    "num_policy": 487
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ADM",
+    "num_policy": 243
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "AGA",
+    "num_policy": 85
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ALG",
+    "num_policy": 322
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "AMB",
+    "num_policy": 186
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ARM",
+    "num_policy": 65
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ASE",
+    "num_policy": 84
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BHD",
+    "num_policy": 221
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BLH",
+    "num_policy": 80
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BLR",
+    "num_policy": 139
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BOL",
+    "num_policy": 693
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BSA",
+    "num_policy": 157
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BSH",
+    "num_policy": 241
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "BTL",
+    "num_policy": 131
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "CHR",
+    "num_policy": 206
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "CMC",
+    "num_policy": 167
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "CMR",
+    "num_policy": 153
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DAK",
+    "num_policy": 119
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DBR",
+    "num_policy": 73
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DGM",
+    "num_policy": 150
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DLA",
+    "num_policy": 174
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DLG",
+    "num_policy": 203
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DRD",
+    "num_policy": 234
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "DSE",
+    "num_policy": 244
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "FFN",
+    "num_policy": 717
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "FRI",
+    "num_policy": 23
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GBG",
+    "num_policy": 106
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GFM",
+    "num_policy": 273
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GLL",
+    "num_policy": 259
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GMB",
+    "num_policy": 161
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GNB",
+    "num_policy": 100
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GRJ",
+    "num_policy": 288
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "GTR",
+    "num_policy": 228
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "HWS",
+    "num_policy": 304
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "JIG",
+    "num_policy": 20
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "JIM",
+    "num_policy": 185
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "KLY",
+    "num_policy": 316
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "KOL",
+    "num_policy": 246
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "KZC",
+    "num_policy": 299
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "LBU",
+    "num_policy": 240
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "LDT",
+    "num_policy": 405
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "LGT",
+    "num_policy": 182
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "MGN",
+    "num_policy": 373
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "MJO",
+    "num_policy": 40
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "MKL",
+    "num_policy": 18
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "MRT",
+    "num_policy": 111
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "MTU",
+    "num_policy": 73
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "NFS",
+    "num_policy": 263
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "NKT",
+    "num_policy": 169
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "ODA",
+    "num_policy": 144
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "PIZ",
+    "num_policy": 377
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "SAB",
+    "num_policy": 284
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "SEA",
+    "num_policy": 87
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "SGR",
+    "num_policy": 272
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "SHA",
+    "num_policy": 232
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "TKB",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "TKH",
+    "num_policy": 264
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "WLF",
+    "num_policy": 305
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "WLS",
+    "num_policy": 59
+  },
+  {
+    "year_month": "Oct-23",
+    "branch": "WSO",
+    "num_policy": 133
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "22M",
+    "num_policy": 264
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ADD",
+    "num_policy": 619
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ADM",
+    "num_policy": 305
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "AGA",
+    "num_policy": 83
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ALG",
+    "num_policy": 338
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "AMB",
+    "num_policy": 213
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ARM",
+    "num_policy": 58
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ASE",
+    "num_policy": 106
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BHD",
+    "num_policy": 156
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BLH",
+    "num_policy": 116
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BLR",
+    "num_policy": 118
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BOL",
+    "num_policy": 677
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BSA",
+    "num_policy": 146
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BSH",
+    "num_policy": 292
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "BTL",
+    "num_policy": 132
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "CHR",
+    "num_policy": 339
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "CMC",
+    "num_policy": 176
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "CMR",
+    "num_policy": 156
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DAK",
+    "num_policy": 117
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DBR",
+    "num_policy": 75
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DGM",
+    "num_policy": 166
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DLA",
+    "num_policy": 256
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DLG",
+    "num_policy": 249
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DRD",
+    "num_policy": 226
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "DSE",
+    "num_policy": 176
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "FFN",
+    "num_policy": 670
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "FRI",
+    "num_policy": 35
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GBG",
+    "num_policy": 107
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GFM",
+    "num_policy": 273
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GLL",
+    "num_policy": 233
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GMB",
+    "num_policy": 128
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GNB",
+    "num_policy": 121
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GRJ",
+    "num_policy": 226
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "GTR",
+    "num_policy": 233
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "HWS",
+    "num_policy": 237
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "JIG",
+    "num_policy": 19
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "JIM",
+    "num_policy": 170
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "KLY",
+    "num_policy": 337
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "KOL",
+    "num_policy": 261
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "KZC",
+    "num_policy": 336
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "LBU",
+    "num_policy": 214
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "LDT",
+    "num_policy": 416
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "LGT",
+    "num_policy": 159
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "MGN",
+    "num_policy": 401
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "MJO",
+    "num_policy": 52
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "MKL",
+    "num_policy": 45
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "MRT",
+    "num_policy": 142
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "MTU",
+    "num_policy": 106
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "NFS",
+    "num_policy": 253
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "NKT",
+    "num_policy": 187
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "ODA",
+    "num_policy": 133
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "PIZ",
+    "num_policy": 317
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "SAB",
+    "num_policy": 283
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "SEA",
+    "num_policy": 124
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "SGR",
+    "num_policy": 245
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "SHA",
+    "num_policy": 311
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "TKB",
+    "num_policy": 93
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "TKH",
+    "num_policy": 322
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "WLF",
+    "num_policy": 302
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "WLS",
+    "num_policy": 38
+  },
+  {
+    "year_month": "Nov-23",
+    "branch": "WSO",
+    "num_policy": 132
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "22M",
+    "num_policy": 231
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ADD",
+    "num_policy": 547
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ADM",
+    "num_policy": 194
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "AGA",
+    "num_policy": 68
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ALG",
+    "num_policy": 267
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "AMB",
+    "num_policy": 224
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ARM",
+    "num_policy": 44
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ASE",
+    "num_policy": 33
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BHD",
+    "num_policy": 95
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BLH",
+    "num_policy": 111
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BLR",
+    "num_policy": 186
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BOL",
+    "num_policy": 563
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BSA",
+    "num_policy": 125
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BSH",
+    "num_policy": 227
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "BTL",
+    "num_policy": 125
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "CHR",
+    "num_policy": 248
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "CMC",
+    "num_policy": 159
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "CMR",
+    "num_policy": 168
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DAK",
+    "num_policy": 106
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DBR",
+    "num_policy": 67
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DGM",
+    "num_policy": 124
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DLA",
+    "num_policy": 126
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DLG",
+    "num_policy": 205
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DRD",
+    "num_policy": 238
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "DSE",
+    "num_policy": 108
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "FFN",
+    "num_policy": 645
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "FRI",
+    "num_policy": 34
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GBG",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GFM",
+    "num_policy": 254
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GLL",
+    "num_policy": 234
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GMB",
+    "num_policy": 103
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GNB",
+    "num_policy": 82
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GRJ",
+    "num_policy": 211
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "GTR",
+    "num_policy": 161
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "HWS",
+    "num_policy": 170
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "JIG",
+    "num_policy": 27
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "JIM",
+    "num_policy": 163
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "KLY",
+    "num_policy": 256
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "KOL",
+    "num_policy": 262
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "KZC",
+    "num_policy": 297
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "LBU",
+    "num_policy": 192
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "LDT",
+    "num_policy": 345
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "LGT",
+    "num_policy": 165
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "MGN",
+    "num_policy": 316
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "MJO",
+    "num_policy": 27
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "MKL",
+    "num_policy": 61
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "MRT",
+    "num_policy": 116
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "MTU",
+    "num_policy": 71
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "NFS",
+    "num_policy": 250
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "NKT",
+    "num_policy": 131
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "ODA",
+    "num_policy": 124
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "PIZ",
+    "num_policy": 260
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "SAB",
+    "num_policy": 210
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "SEA",
+    "num_policy": 99
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "SGR",
+    "num_policy": 203
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "SHA",
+    "num_policy": 275
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "TKB",
+    "num_policy": 105
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "TKH",
+    "num_policy": 283
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "WLF",
+    "num_policy": 239
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "WLS",
+    "num_policy": 39
+  },
+  {
+    "year_month": "Dec-23",
+    "branch": "WSO",
+    "num_policy": 82
+  }
+]

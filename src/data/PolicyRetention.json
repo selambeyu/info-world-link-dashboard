@@ -1,0 +1,2648 @@
+[
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 391,
+    "policy_renewed": 227,
+    "renewal_retention": 58.06
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 588,
+    "policy_renewed": 584,
+    "renewal_retention": 99.32
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 275,
+    "policy_renewed": 181,
+    "renewal_retention": 65.82
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 279,
+    "policy_renewed": 181,
+    "renewal_retention": 64.87
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 127,
+    "policy_renewed": 101,
+    "renewal_retention": 79.53
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 297,
+    "policy_renewed": 159,
+    "renewal_retention": 53.54
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 642,
+    "policy_renewed": 339,
+    "renewal_retention": 52.8
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 321,
+    "policy_renewed": 143,
+    "renewal_retention": 44.55
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 238,
+    "policy_renewed": 130,
+    "renewal_retention": 54.62
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 259,
+    "policy_renewed": 168,
+    "renewal_retention": 64.86
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 266,
+    "policy_renewed": 190,
+    "renewal_retention": 71.43
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 377,
+    "policy_renewed": 298,
+    "renewal_retention": 79.05
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 166,
+    "policy_renewed": 88,
+    "renewal_retention": 53.01
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 204,
+    "policy_renewed": 127,
+    "renewal_retention": 62.25
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 309,
+    "policy_renewed": 216,
+    "renewal_retention": 69.9
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 275,
+    "policy_renewed": 163,
+    "renewal_retention": 59.27
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 253,
+    "policy_renewed": 150,
+    "renewal_retention": 59.29
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 286,
+    "policy_renewed": 170,
+    "renewal_retention": 59.44
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 200,
+    "policy_renewed": 68,
+    "renewal_retention": 34
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 154,
+    "policy_renewed": 123,
+    "renewal_retention": 79.87
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 348,
+    "policy_renewed": 254,
+    "renewal_retention": 72.99
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 112,
+    "policy_renewed": 64,
+    "renewal_retention": 57.14
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 134,
+    "policy_renewed": 84,
+    "renewal_retention": 62.69
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 155,
+    "policy_renewed": 108,
+    "renewal_retention": 69.68
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 8,
+    "policy_renewed": 10,
+    "renewal_retention": 125
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 249,
+    "policy_renewed": 147,
+    "renewal_retention": 59.04
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 211,
+    "policy_renewed": 146,
+    "renewal_retention": 69.19
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 274,
+    "policy_renewed": 84,
+    "renewal_retention": 30.66
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 247,
+    "policy_renewed": 112,
+    "renewal_retention": 45.34
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 81,
+    "policy_renewed": 40,
+    "renewal_retention": 49.38
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 141,
+    "policy_renewed": 76,
+    "renewal_retention": 53.9
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 331,
+    "policy_renewed": 160,
+    "renewal_retention": 48.34
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 249,
+    "policy_renewed": 150,
+    "renewal_retention": 60.24
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 119,
+    "policy_renewed": 78,
+    "renewal_retention": 65.55
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 227,
+    "policy_renewed": 117,
+    "renewal_retention": 51.54
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 229,
+    "policy_renewed": 155,
+    "renewal_retention": 67.69
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 387,
+    "policy_renewed": 212,
+    "renewal_retention": 54.78
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 131,
+    "policy_renewed": 90,
+    "renewal_retention": 68.7
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 112,
+    "policy_renewed": 67,
+    "renewal_retention": 59.82
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 55,
+    "policy_renewed": 34,
+    "renewal_retention": 61.82
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 246,
+    "policy_renewed": 147,
+    "renewal_retention": 59.76
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 184,
+    "policy_renewed": 52,
+    "renewal_retention": 28.26
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 52,
+    "policy_renewed": 18,
+    "renewal_retention": 34.62
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 161,
+    "policy_renewed": 129,
+    "renewal_retention": 80.12
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 164,
+    "policy_renewed": 107,
+    "renewal_retention": 65.24
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 218,
+    "policy_renewed": 118,
+    "renewal_retention": 54.13
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 42,
+    "policy_renewed": 24,
+    "renewal_retention": 57.14
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 42,
+    "policy_renewed": 22,
+    "renewal_retention": 52.38
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 132,
+    "policy_renewed": 87,
+    "renewal_retention": 65.91
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 40,
+    "policy_renewed": 8,
+    "renewal_retention": 20
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 64,
+    "policy_renewed": 39,
+    "renewal_retention": 60.94
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 137,
+    "policy_renewed": 68,
+    "renewal_retention": 49.64
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 1,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 117,
+    "policy_renewed": 38,
+    "renewal_retention": 32.48
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 86,
+    "policy_renewed": 32,
+    "renewal_retention": 37.21
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 52,
+    "policy_renewed": 18,
+    "renewal_retention": 34.62
+  },
+  {
+    "month_year": "Jan-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 333,
+    "policy_renewed": 196,
+    "renewal_retention": 58.86
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 590,
+    "policy_renewed": 340,
+    "renewal_retention": 57.63
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 228,
+    "policy_renewed": 157,
+    "renewal_retention": 68.86
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 256,
+    "policy_renewed": 178,
+    "renewal_retention": 69.53
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 88,
+    "policy_renewed": 63,
+    "renewal_retention": 71.59
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 283,
+    "policy_renewed": 157,
+    "renewal_retention": 55.48
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 817,
+    "policy_renewed": 296,
+    "renewal_retention": 36.23
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 250,
+    "policy_renewed": 127,
+    "renewal_retention": 50.8
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 279,
+    "policy_renewed": 170,
+    "renewal_retention": 60.93
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 203,
+    "policy_renewed": 130,
+    "renewal_retention": 64.04
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 262,
+    "policy_renewed": 179,
+    "renewal_retention": 68.32
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 362,
+    "policy_renewed": 217,
+    "renewal_retention": 59.94
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 147,
+    "policy_renewed": 87,
+    "renewal_retention": 59.18
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 196,
+    "policy_renewed": 118,
+    "renewal_retention": 60.2
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 294,
+    "policy_renewed": 203,
+    "renewal_retention": 69.05
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 261,
+    "policy_renewed": 162,
+    "renewal_retention": 62.07
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 207,
+    "policy_renewed": 155,
+    "renewal_retention": 74.88
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 237,
+    "policy_renewed": 189,
+    "renewal_retention": 79.75
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 291,
+    "policy_renewed": 85,
+    "renewal_retention": 29.21
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 150,
+    "policy_renewed": 81,
+    "renewal_retention": 54
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 255,
+    "policy_renewed": 163,
+    "renewal_retention": 63.92
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 79,
+    "policy_renewed": 47,
+    "renewal_retention": 59.49
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 145,
+    "policy_renewed": 93,
+    "renewal_retention": 64.14
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 91,
+    "policy_renewed": 46,
+    "renewal_retention": 50.55
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 1,
+    "policy_renewed": 1,
+    "renewal_retention": 100
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 182,
+    "policy_renewed": 91,
+    "renewal_retention": 50
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 185,
+    "policy_renewed": 116,
+    "renewal_retention": 62.7
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 258,
+    "policy_renewed": 76,
+    "renewal_retention": 29.46
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 234,
+    "policy_renewed": 103,
+    "renewal_retention": 44.02
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 81,
+    "policy_renewed": 53,
+    "renewal_retention": 65.43
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 161,
+    "policy_renewed": 84,
+    "renewal_retention": 52.17
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 306,
+    "policy_renewed": 141,
+    "renewal_retention": 46.08
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 267,
+    "policy_renewed": 155,
+    "renewal_retention": 58.05
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 219,
+    "policy_renewed": 157,
+    "renewal_retention": 71.69
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 222,
+    "policy_renewed": 116,
+    "renewal_retention": 52.25
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 243,
+    "policy_renewed": 152,
+    "renewal_retention": 62.55
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 387,
+    "policy_renewed": 243,
+    "renewal_retention": 62.79
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 112,
+    "policy_renewed": 74,
+    "renewal_retention": 66.07
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 109,
+    "policy_renewed": 60,
+    "renewal_retention": 55.05
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 58,
+    "policy_renewed": 27,
+    "renewal_retention": 46.55
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 417,
+    "policy_renewed": 249,
+    "renewal_retention": 59.71
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 75,
+    "policy_renewed": 58,
+    "renewal_retention": 77.33
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 55,
+    "policy_renewed": 20,
+    "renewal_retention": 36.36
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 154,
+    "policy_renewed": 111,
+    "renewal_retention": 72.08
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 126,
+    "policy_renewed": 77,
+    "renewal_retention": 61.11
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 165,
+    "policy_renewed": 112,
+    "renewal_retention": 67.88
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 42,
+    "policy_renewed": 26,
+    "renewal_retention": 61.9
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 33,
+    "policy_renewed": 24,
+    "renewal_retention": 72.73
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 100,
+    "policy_renewed": 52,
+    "renewal_retention": 52
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 31,
+    "policy_renewed": 4,
+    "renewal_retention": 12.9
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 46,
+    "policy_renewed": 35,
+    "renewal_retention": 76.09
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 129,
+    "policy_renewed": 63,
+    "renewal_retention": 48.84
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 1,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 100,
+    "policy_renewed": 25,
+    "renewal_retention": 25
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 71,
+    "policy_renewed": 15,
+    "renewal_retention": 21.13
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 25,
+    "policy_renewed": 12,
+    "renewal_retention": 48
+  },
+  {
+    "month_year": "Feb-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 120,
+    "policy_renewed": 78,
+    "renewal_retention": 65
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 3,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 93,
+    "policy_renewed": 47,
+    "renewal_retention": 50.54
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 125,
+    "policy_renewed": 23,
+    "renewal_retention": 18.4
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 59,
+    "policy_renewed": 38,
+    "renewal_retention": 64.41
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 30,
+    "policy_renewed": 9,
+    "renewal_retention": 30
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 349,
+    "policy_renewed": 168,
+    "renewal_retention": 48.14
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 635,
+    "policy_renewed": 397,
+    "renewal_retention": 62.52
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 220,
+    "policy_renewed": 136,
+    "renewal_retention": 61.82
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 246,
+    "policy_renewed": 185,
+    "renewal_retention": 75.2
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 75,
+    "policy_renewed": 44,
+    "renewal_retention": 58.67
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 232,
+    "policy_renewed": 127,
+    "renewal_retention": 54.74
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 663,
+    "policy_renewed": 284,
+    "renewal_retention": 42.84
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 235,
+    "policy_renewed": 103,
+    "renewal_retention": 43.83
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 290,
+    "policy_renewed": 146,
+    "renewal_retention": 50.34
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 226,
+    "policy_renewed": 146,
+    "renewal_retention": 64.6
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 242,
+    "policy_renewed": 144,
+    "renewal_retention": 59.5
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 419,
+    "policy_renewed": 233,
+    "renewal_retention": 55.61
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 137,
+    "policy_renewed": 68,
+    "renewal_retention": 49.64
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 227,
+    "policy_renewed": 131,
+    "renewal_retention": 57.71
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 258,
+    "policy_renewed": 161,
+    "renewal_retention": 62.4
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 295,
+    "policy_renewed": 164,
+    "renewal_retention": 55.59
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 299,
+    "policy_renewed": 165,
+    "renewal_retention": 55.18
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 259,
+    "policy_renewed": 179,
+    "renewal_retention": 69.11
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 305,
+    "policy_renewed": 103,
+    "renewal_retention": 33.77
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 111,
+    "policy_renewed": 89,
+    "renewal_retention": 80.18
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 239,
+    "policy_renewed": 140,
+    "renewal_retention": 58.58
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 135,
+    "policy_renewed": 126,
+    "renewal_retention": 93.33
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 107,
+    "policy_renewed": 91,
+    "renewal_retention": 85.05
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 102,
+    "policy_renewed": 71,
+    "renewal_retention": 69.61
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 1,
+    "policy_renewed": 1,
+    "renewal_retention": 100
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 134,
+    "policy_renewed": 81,
+    "renewal_retention": 60.45
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 219,
+    "policy_renewed": 156,
+    "renewal_retention": 71.23
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 318,
+    "policy_renewed": 121,
+    "renewal_retention": 38.05
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 288,
+    "policy_renewed": 128,
+    "renewal_retention": 44.44
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 112,
+    "policy_renewed": 67,
+    "renewal_retention": 59.82
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 151,
+    "policy_renewed": 92,
+    "renewal_retention": 60.93
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 312,
+    "policy_renewed": 143,
+    "renewal_retention": 45.83
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 217,
+    "policy_renewed": 119,
+    "renewal_retention": 54.84
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 237,
+    "policy_renewed": 121,
+    "renewal_retention": 51.05
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 257,
+    "policy_renewed": 115,
+    "renewal_retention": 44.75
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 229,
+    "policy_renewed": 132,
+    "renewal_retention": 57.64
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 411,
+    "policy_renewed": 202,
+    "renewal_retention": 49.15
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 118,
+    "policy_renewed": 70,
+    "renewal_retention": 59.32
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 86,
+    "policy_renewed": 48,
+    "renewal_retention": 55.81
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 69,
+    "policy_renewed": 44,
+    "renewal_retention": 63.77
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 178,
+    "policy_renewed": 96,
+    "renewal_retention": 53.93
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 4,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 81,
+    "policy_renewed": 93,
+    "renewal_retention": 114.81
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 82,
+    "policy_renewed": 19,
+    "renewal_retention": 23.17
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 179,
+    "policy_renewed": 110,
+    "renewal_retention": 61.45
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 149,
+    "policy_renewed": 98,
+    "renewal_retention": 65.77
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 180,
+    "policy_renewed": 116,
+    "renewal_retention": 64.44
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 51,
+    "policy_renewed": 28,
+    "renewal_retention": 54.9
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 38,
+    "policy_renewed": 23,
+    "renewal_retention": 60.53
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 159,
+    "policy_renewed": 82,
+    "renewal_retention": 51.57
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 14,
+    "policy_renewed": 6,
+    "renewal_retention": 42.86
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 76,
+    "policy_renewed": 58,
+    "renewal_retention": 76.32
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 132,
+    "policy_renewed": 50,
+    "renewal_retention": 37.88
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 71,
+    "policy_renewed": 38,
+    "renewal_retention": 53.52
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 66,
+    "policy_renewed": 20,
+    "renewal_retention": 30.3
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 62,
+    "policy_renewed": 51,
+    "renewal_retention": 82.26
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 27,
+    "policy_renewed": 5,
+    "renewal_retention": 18.52
+  },
+  {
+    "month_year": "Apr-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 371,
+    "policy_renewed": 248,
+    "renewal_retention": 66.85
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 686,
+    "policy_renewed": 360,
+    "renewal_retention": 52.48
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 302,
+    "policy_renewed": 202,
+    "renewal_retention": 66.89
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 290,
+    "policy_renewed": 216,
+    "renewal_retention": 74.48
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 105,
+    "policy_renewed": 73,
+    "renewal_retention": 69.52
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 291,
+    "policy_renewed": 167,
+    "renewal_retention": 57.39
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 820,
+    "policy_renewed": 307,
+    "renewal_retention": 37.44
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 276,
+    "policy_renewed": 157,
+    "renewal_retention": 56.88
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 376,
+    "policy_renewed": 239,
+    "renewal_retention": 63.56
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 290,
+    "policy_renewed": 201,
+    "renewal_retention": 69.31
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 368,
+    "policy_renewed": 250,
+    "renewal_retention": 67.93
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 447,
+    "policy_renewed": 267,
+    "renewal_retention": 59.73
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 164,
+    "policy_renewed": 79,
+    "renewal_retention": 48.17
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 266,
+    "policy_renewed": 167,
+    "renewal_retention": 62.78
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 295,
+    "policy_renewed": 204,
+    "renewal_retention": 69.15
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 340,
+    "policy_renewed": 207,
+    "renewal_retention": 60.88
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 289,
+    "policy_renewed": 177,
+    "renewal_retention": 61.25
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 327,
+    "policy_renewed": 218,
+    "renewal_retention": 66.67
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 374,
+    "policy_renewed": 103,
+    "renewal_retention": 27.54
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 215,
+    "policy_renewed": 120,
+    "renewal_retention": 55.81
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 308,
+    "policy_renewed": 192,
+    "renewal_retention": 62.34
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 132,
+    "policy_renewed": 69,
+    "renewal_retention": 52.27
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 114,
+    "policy_renewed": 61,
+    "renewal_retention": 53.51
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 137,
+    "policy_renewed": 106,
+    "renewal_retention": 77.37
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 16,
+    "policy_renewed": 12,
+    "renewal_retention": 75
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 163,
+    "policy_renewed": 103,
+    "renewal_retention": 63.19
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 262,
+    "policy_renewed": 193,
+    "renewal_retention": 73.66
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 311,
+    "policy_renewed": 114,
+    "renewal_retention": 36.66
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 302,
+    "policy_renewed": 179,
+    "renewal_retention": 59.27
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 109,
+    "policy_renewed": 64,
+    "renewal_retention": 58.72
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 169,
+    "policy_renewed": 108,
+    "renewal_retention": 63.91
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 388,
+    "policy_renewed": 170,
+    "renewal_retention": 43.81
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 239,
+    "policy_renewed": 157,
+    "renewal_retention": 65.69
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 247,
+    "policy_renewed": 154,
+    "renewal_retention": 62.35
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 275,
+    "policy_renewed": 146,
+    "renewal_retention": 53.09
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 262,
+    "policy_renewed": 169,
+    "renewal_retention": 64.5
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 444,
+    "policy_renewed": 259,
+    "renewal_retention": 58.33
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 144,
+    "policy_renewed": 91,
+    "renewal_retention": 63.19
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 101,
+    "policy_renewed": 74,
+    "renewal_retention": 73.27
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 47,
+    "policy_renewed": 35,
+    "renewal_retention": 74.47
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 297,
+    "policy_renewed": 215,
+    "renewal_retention": 72.39
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 6,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 98,
+    "policy_renewed": 77,
+    "renewal_retention": 78.57
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 101,
+    "policy_renewed": 45,
+    "renewal_retention": 44.55
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 156,
+    "policy_renewed": 115,
+    "renewal_retention": 73.72
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 156,
+    "policy_renewed": 89,
+    "renewal_retention": 57.05
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 225,
+    "policy_renewed": 134,
+    "renewal_retention": 59.56
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 36,
+    "policy_renewed": 29,
+    "renewal_retention": 80.56
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 31,
+    "policy_renewed": 21,
+    "renewal_retention": 67.74
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 148,
+    "policy_renewed": 76,
+    "renewal_retention": 51.35
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 26,
+    "policy_renewed": 8,
+    "renewal_retention": 30.77
+  },
+  {
+    "month_year": "Mar-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 84,
+    "policy_renewed": 36,
+    "renewal_retention": 42.86
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 385,
+    "policy_renewed": 189,
+    "renewal_retention": 49.09
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 711,
+    "policy_renewed": 400,
+    "renewal_retention": 56.26
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 297,
+    "policy_renewed": 182,
+    "renewal_retention": 61.28
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 351,
+    "policy_renewed": 226,
+    "renewal_retention": 64.39
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 86,
+    "policy_renewed": 59,
+    "renewal_retention": 68.6
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 270,
+    "policy_renewed": 135,
+    "renewal_retention": 50
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 887,
+    "policy_renewed": 289,
+    "renewal_retention": 32.58
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 288,
+    "policy_renewed": 125,
+    "renewal_retention": 43.4
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 351,
+    "policy_renewed": 191,
+    "renewal_retention": 54.42
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 250,
+    "policy_renewed": 182,
+    "renewal_retention": 72.8
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 264,
+    "policy_renewed": 157,
+    "renewal_retention": 59.47
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 464,
+    "policy_renewed": 241,
+    "renewal_retention": 51.94
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 157,
+    "policy_renewed": 65,
+    "renewal_retention": 41.4
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 221,
+    "policy_renewed": 129,
+    "renewal_retention": 58.37
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 311,
+    "policy_renewed": 172,
+    "renewal_retention": 55.31
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 289,
+    "policy_renewed": 160,
+    "renewal_retention": 55.36
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 296,
+    "policy_renewed": 187,
+    "renewal_retention": 63.18
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 363,
+    "policy_renewed": 270,
+    "renewal_retention": 74.38
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 315,
+    "policy_renewed": 106,
+    "renewal_retention": 33.65
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 155,
+    "policy_renewed": 76,
+    "renewal_retention": 49.03
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 268,
+    "policy_renewed": 165,
+    "renewal_retention": 61.57
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 178,
+    "policy_renewed": 124,
+    "renewal_retention": 69.66
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 122,
+    "policy_renewed": 76,
+    "renewal_retention": 62.3
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Addis Ababa Main Branch",
+    "policy_renewable": 317,
+    "policy_renewed": 153,
+    "renewal_retention": 48.26
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bole Grand Main Branch",
+    "policy_renewable": 551,
+    "policy_renewed": 298,
+    "renewal_retention": 54.08
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Gofa Mazoria Main Branch",
+    "policy_renewable": 265,
+    "policy_renewed": 175,
+    "renewal_retention": 66.04
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Hayahulet Mazoria Branch",
+    "policy_renewable": 282,
+    "policy_renewed": 194,
+    "renewal_retention": 68.79
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Markato Branch",
+    "policy_renewable": 80,
+    "policy_renewed": 51,
+    "renewal_retention": 63.75
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Nefas Silk Branch",
+    "policy_renewable": 291,
+    "policy_renewed": 147,
+    "renewal_retention": 50.52
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Finfinee Grand Main Branch",
+    "policy_renewable": 719,
+    "policy_renewed": 252,
+    "renewal_retention": 35.05
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Teklehaimanot Branch",
+    "policy_renewable": 233,
+    "policy_renewed": 90,
+    "renewal_retention": 38.63
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Wallo Sefer Branch",
+    "policy_renewable": 253,
+    "policy_renewed": 138,
+    "renewal_retention": 54.55
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Gerji Branch",
+    "policy_renewable": 218,
+    "policy_renewed": 172,
+    "renewal_retention": 78.9
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Kolfe Branch",
+    "policy_renewable": 216,
+    "policy_renewed": 125,
+    "renewal_retention": 57.87
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Lideta Main Branch",
+    "policy_renewable": 329,
+    "policy_renewed": 194,
+    "renewal_retention": 58.97
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Central Markato Branch",
+    "policy_renewable": 140,
+    "policy_renewed": 68,
+    "renewal_retention": 48.57
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Gotera Branch",
+    "policy_renewable": 222,
+    "policy_renewed": 152,
+    "renewal_retention": 68.47
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Piazza Branch",
+    "policy_renewable": 267,
+    "policy_renewed": 177,
+    "renewal_retention": 66.29
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Gulalee Branch",
+    "policy_renewable": 257,
+    "policy_renewed": 114,
+    "renewal_retention": 44.36
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Kazanchis Branch",
+    "policy_renewable": 215,
+    "policy_renewed": 131,
+    "renewal_retention": 60.93
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Adama Main Branch",
+    "policy_renewable": 229,
+    "policy_renewed": 159,
+    "renewal_retention": 69.43
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Dire Dawa Branch",
+    "policy_renewable": 263,
+    "policy_renewed": 103,
+    "renewal_retention": 39.16
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Nakamte Branch",
+    "policy_renewable": 200,
+    "policy_renewed": 102,
+    "renewal_retention": 51
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Shashamane Branch",
+    "policy_renewable": 200,
+    "policy_renewed": 158,
+    "renewal_retention": 79
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Dilla Branch",
+    "policy_renewable": 121,
+    "policy_renewed": 78,
+    "renewal_retention": 64.46
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Ghimbie Branch",
+    "policy_renewable": 136,
+    "policy_renewed": 130,
+    "renewal_retention": 95.59
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 94,
+    "policy_renewed": 72,
+    "renewal_retention": 76.6
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 9,
+    "policy_renewed": 6,
+    "renewal_retention": 66.67
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 135,
+    "policy_renewed": 69,
+    "renewal_retention": 51.11
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 216,
+    "policy_renewed": 151,
+    "renewal_retention": 69.91
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 270,
+    "policy_renewed": 109,
+    "renewal_retention": 40.37
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 277,
+    "policy_renewed": 125,
+    "renewal_retention": 45.13
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 72,
+    "policy_renewed": 45,
+    "renewal_retention": 62.5
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 189,
+    "policy_renewed": 125,
+    "renewal_retention": 66.14
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 300,
+    "policy_renewed": 128,
+    "renewal_retention": 42.67
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 219,
+    "policy_renewed": 133,
+    "renewal_retention": 60.73
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 215,
+    "policy_renewed": 119,
+    "renewal_retention": 55.35
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 192,
+    "policy_renewed": 92,
+    "renewal_retention": 47.92
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 210,
+    "policy_renewed": 127,
+    "renewal_retention": 60.48
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 397,
+    "policy_renewed": 219,
+    "renewal_retention": 55.16
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 130,
+    "policy_renewed": 78,
+    "renewal_retention": 60
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 108,
+    "policy_renewed": 56,
+    "renewal_retention": 51.85
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 63,
+    "policy_renewed": 35,
+    "renewal_retention": 55.56
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 147,
+    "policy_renewed": 101,
+    "renewal_retention": 68.71
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 9,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 68,
+    "policy_renewed": 71,
+    "renewal_retention": 104.41
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 64,
+    "policy_renewed": 21,
+    "renewal_retention": 32.81
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 122,
+    "policy_renewed": 86,
+    "renewal_retention": 70.49
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 135,
+    "policy_renewed": 73,
+    "renewal_retention": 54.07
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 211,
+    "policy_renewed": 130,
+    "renewal_retention": 61.61
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 31,
+    "policy_renewed": 23,
+    "renewal_retention": 74.19
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 60,
+    "policy_renewed": 47,
+    "renewal_retention": 78.33
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 118,
+    "policy_renewed": 67,
+    "renewal_retention": 56.78
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 18,
+    "policy_renewed": 3,
+    "renewal_retention": 16.67
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 61,
+    "policy_renewed": 35,
+    "renewal_retention": 57.38
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 104,
+    "policy_renewed": 60,
+    "renewal_retention": 57.69
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 1,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 93,
+    "policy_renewed": 41,
+    "renewal_retention": 44.09
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 36,
+    "policy_renewed": 13,
+    "renewal_retention": 36.11
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 66,
+    "policy_renewed": 32,
+    "renewal_retention": 48.48
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 60,
+    "policy_renewed": 12,
+    "renewal_retention": 20
+  },
+  {
+    "month_year": "May-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Jimma Branch",
+    "policy_renewable": 133,
+    "policy_renewed": 98,
+    "renewal_retention": 73.68
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Mekele Branch",
+    "policy_renewable": 25,
+    "policy_renewed": 26,
+    "renewal_retention": 104
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Ambo Branch",
+    "policy_renewable": 188,
+    "policy_renewed": 75,
+    "renewal_retention": 39.89
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bishoftu Branch",
+    "policy_renewable": 240,
+    "policy_renewed": 194,
+    "renewal_retention": 80.83
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Hawassa Branch",
+    "policy_renewable": 291,
+    "policy_renewed": 131,
+    "renewal_retention": 45.02
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Shagar Branch",
+    "policy_renewable": 354,
+    "policy_renewed": 192,
+    "renewal_retention": 54.24
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Sebategna Akababi Branch",
+    "policy_renewable": 112,
+    "policy_renewed": 61,
+    "renewal_retention": 54.46
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bahir Dar Branch",
+    "policy_renewable": 294,
+    "policy_renewed": 179,
+    "renewal_retention": 60.88
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Dil Gebeya Branch",
+    "policy_renewable": 335,
+    "policy_renewed": 140,
+    "renewal_retention": 41.79
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Alemgena Branch",
+    "policy_renewable": 216,
+    "policy_renewed": 137,
+    "renewal_retention": 63.43
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Dessie Branch",
+    "policy_renewable": 246,
+    "policy_renewed": 120,
+    "renewal_retention": 48.78
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Kality Branch",
+    "policy_renewable": 303,
+    "policy_renewed": 123,
+    "renewal_retention": 40.59
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Sarbet Branch",
+    "policy_renewable": 249,
+    "policy_renewed": 149,
+    "renewal_retention": 59.84
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Megenagna Branch",
+    "policy_renewable": 486,
+    "policy_renewed": 251,
+    "renewal_retention": 51.65
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Oda Branch",
+    "policy_renewable": 169,
+    "policy_renewed": 105,
+    "renewal_retention": 62.13
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Woliso Branch",
+    "policy_renewable": 107,
+    "policy_renewed": 45,
+    "renewal_retention": 42.06
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Assela Branch",
+    "policy_renewable": 73,
+    "policy_renewed": 49,
+    "renewal_retention": 67.12
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Chiro Branch",
+    "policy_renewable": 226,
+    "policy_renewed": 105,
+    "renewal_retention": 46.46
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bethel Area Branch",
+    "policy_renewable": 2,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bule Hora",
+    "policy_renewable": 113,
+    "policy_renewed": 27,
+    "renewal_retention": 23.89
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Arba Minch Branch",
+    "policy_renewable": 108,
+    "policy_renewed": 23,
+    "renewal_retention": 21.3
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Birbirsa Branch",
+    "policy_renewable": 147,
+    "policy_renewed": 113,
+    "renewal_retention": 76.87
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "CMC Branch",
+    "policy_renewable": 175,
+    "policy_renewed": 123,
+    "renewal_retention": 70.29
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Labu Branch",
+    "policy_renewable": 203,
+    "policy_renewed": 129,
+    "renewal_retention": 63.55
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Agamsaa Branch",
+    "policy_renewable": 44,
+    "policy_renewed": 30,
+    "renewal_retention": 68.18
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Life and Health Department",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Gafarsa Nono Branch",
+    "policy_renewable": 76,
+    "policy_renewed": 36,
+    "renewal_retention": 47.37
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Debela Gutema Branch",
+    "policy_renewable": 151,
+    "policy_renewed": 97,
+    "renewal_retention": 64.24
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Jigjiga Branch",
+    "policy_renewable": 24,
+    "policy_renewed": 4,
+    "renewal_retention": 16.67
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Garbaguracha Branch",
+    "policy_renewable": 65,
+    "policy_renewed": 33,
+    "renewal_retention": 50.77
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Laga Tafo Branch",
+    "policy_renewable": 110,
+    "policy_renewed": 77,
+    "renewal_retention": 70
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "DAfrique Branch",
+    "policy_renewable": 2,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Bale Robe Branch",
+    "policy_renewable": 135,
+    "policy_renewed": 50,
+    "renewal_retention": 37.04
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Branch Operation",
+    "policy_renewable": 1,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Debre Birhan Branch",
+    "policy_renewable": 77,
+    "policy_renewed": 25,
+    "renewal_retention": 32.47
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Tsegaye Kemsi Branch",
+    "policy_renewable": 63,
+    "policy_renewed": 41,
+    "renewal_retention": 65.08
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Wolaita Sodo",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Furii Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Mettu Branch",
+    "policy_renewable": 54,
+    "policy_renewed": 13,
+    "renewal_retention": 24.07
+  },
+  {
+    "month_year": "Jun-23",
+    "claim_incurred": "Modjo Branch",
+    "policy_renewable": 0,
+    "policy_renewed": 0,
+    "renewal_retention": 0
+  }
+]
